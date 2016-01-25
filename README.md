@@ -4,7 +4,7 @@
 It features 8&times;8 textures (instead of 16&times;16) where applicable and fixes models accordingly if possible.
 
 As of 2016, this texture pack tries to use the original textures' colors. *Remix rather than to re-invent.*
-An [Electron](http://electron.atom.io)-powered editor is worked on at the moment to make this requirement easier to achieve.
+An [Electron](http://electron.atom.io)-powered editor [is worked on at the moment](https://github.com/eiszfuchs/lo-rez-editor) to make this requirement easier to achieve.
 
 This is a re-boot of older work I had stored on my hard drive. When I stumbled on them, I figured it would be best to give them a new home.
 
