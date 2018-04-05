@@ -1,0 +1,44 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/repeater_off",
+        "slab": "blocks/stone_slab_top",
+        "top": "blocks/repeater_off",
+        "unlit": "blocks/redstone_torch_off"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 2, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#slab", "cullface": "down" },
+                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#top" },
+                "north": { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "north" },
+                "south": { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "south" },
+                "west":  { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "west" },
+                "east":  { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "east" }
+            }
+        },
+        {   "from": [ 6, 2, 14 ],
+            "to": [ 10, 8, 10 ],
+            "faces": {
+                "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#unlit" },
+                "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#unlit" },
+                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
+                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
+                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
+                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" }
+            }
+        },
+        {   "from": [ 6, 2, 2 ],
+            "to": [ 10, 8, 6 ],
+            "faces": {
+                "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#unlit" },
+                "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#unlit" },
+                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
+                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
+                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
+                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" }
+            }
+        }
+    ]
+}
