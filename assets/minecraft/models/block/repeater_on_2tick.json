@@ -4,7 +4,7 @@
         "particle": "blocks/repeater_on",
         "slab": "blocks/stone_slab_top",
         "top": "blocks/repeater_on",
-        "unlit": "blocks/redstone_torch_on"
+        "torch": "blocks/redstone_torch_on"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
@@ -21,23 +21,23 @@
         {   "from": [ 6, 2, 6 ],
             "to": [ 10, 8, 10 ],
             "faces": {
-                "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#unlit" },
-                "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#unlit" },
-                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
-                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
-                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
-                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" }
+                "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#torch" },
+                "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" },
+                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" }
             }
         },
         {   "from": [ 6, 2, 2 ],
             "to": [ 10, 8, 6 ],
             "faces": {
-                "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#unlit" },
-                "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#unlit" },
-                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
-                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
-                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" },
-                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#unlit" }
+                "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#torch" },
+                "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" },
+                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" }
             }
         }
     ]
