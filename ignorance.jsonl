@@ -1,6 +1,10 @@
 {"name":"assets/minecraft/models/block/acacia_bark.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_flat.json","value":true}
+{"name":"assets/minecraft/models/block/activator_rail_active_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/activator_rail_active_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_flat.json","value":true}
+{"name":"assets/minecraft/models/block/activator_rail_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/activator_rail_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/black_wool.json","value":true}
 {"name":"assets/minecraft/models/block/block.json","value":true}
 {"name":"assets/minecraft/models/block/blue_wool.json","value":true}
@@ -27,8 +31,16 @@
 {"name":"assets/minecraft/models/block/cyan_wool.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_flat.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_powered_flat.json","value":true}
+{"name":"assets/minecraft/models/block/detector_rail_powered_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/detector_rail_powered_raised_sw.json","value":true}
+{"name":"assets/minecraft/models/block/detector_rail_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/detector_rail_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/golden_rail_active_flat.json","value":true}
+{"name":"assets/minecraft/models/block/golden_rail_active_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/golden_rail_active_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/golden_rail_flat.json","value":true}
+{"name":"assets/minecraft/models/block/golden_rail_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/golden_rail_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/gray_wool.json","value":true}
 {"name":"assets/minecraft/models/block/green_wool.json","value":true}
 {"name":"assets/minecraft/models/block/light_blue_wool.json","value":true}
@@ -36,6 +48,8 @@
 {"name":"assets/minecraft/models/block/magenta_wool.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_curved.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_flat.json","value":true}
+{"name":"assets/minecraft/models/block/normal_rail_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/normal_rail_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/orange_wool.json","value":true}
 {"name":"assets/minecraft/models/block/pink_wool.json","value":true}
 {"name":"assets/minecraft/models/block/purple_wool.json","value":true}
