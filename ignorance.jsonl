@@ -113,6 +113,7 @@
 {"name":"assets/minecraft/models/block/magenta_stained_glass_pane_side.json","value":true}
 {"name":"assets/minecraft/models/block/magenta_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/magenta_wool.json","value":true}
+{"name":"assets/minecraft/models/block/magma.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_curved.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_flat.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_raised_ne.json","value":true}
