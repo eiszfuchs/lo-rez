@@ -30,7 +30,11 @@ Let's make this pack awesome - together!
 
 ### Contributors
 
-- Raphael "eiszfuchs" Pohl (Textures and models that aren't by any other contributors)
+-   Raphael "eiszfuchs" Pohl (Textures and models that aren't by any other contributors)
+
+-   Thomas "CREEATION"
+
+    -   Logs, flowers, and plants
 
 
 # Questions?
