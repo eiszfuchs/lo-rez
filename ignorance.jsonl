@@ -1,4 +1,7 @@
 {"name":"assets/minecraft/models/block/acacia_bark.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_flat.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_raised_ne.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_raised_sw.json","value":true}
@@ -8,6 +11,9 @@
 {"name":"assets/minecraft/models/block/bedrock.json","value":true}
 {"name":"assets/minecraft/models/block/bedrock_mirrored.json","value":true}
 {"name":"assets/minecraft/models/block/birch_bark.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/black_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/black_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/black_stained_glass_pane_noside.json","value":true}
@@ -66,6 +72,9 @@
 {"name":"assets/minecraft/models/block/cyan_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/cyan_wool.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_bark.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_flat.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_powered_flat.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_powered_raised_ne.json","value":true}
@@ -119,6 +128,9 @@
 {"name":"assets/minecraft/models/block/green_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/green_wool.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_bark.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/light_blue_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/light_blue_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/light_blue_stained_glass_pane_noside.json","value":true}
@@ -144,11 +156,17 @@
 {"name":"assets/minecraft/models/block/magenta_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/magenta_wool.json","value":true}
 {"name":"assets/minecraft/models/block/magma.json","value":true}
+{"name":"assets/minecraft/models/block/nether_brick_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/nether_brick_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/nether_brick_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_curved.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_flat.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_raised_ne.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/oak_bark.json","value":true}
+{"name":"assets/minecraft/models/block/oak_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/oak_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/oak_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/orange_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/orange_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/orange_stained_glass_pane_noside.json","value":true}
@@ -190,6 +208,9 @@
 {"name":"assets/minecraft/models/block/silver_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/silver_wool.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_bark.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/thin_block.json","value":true}
 {"name":"assets/minecraft/models/block/tnt.json","value":true}
 {"name":"assets/minecraft/models/block/white_concrete.json","value":true}
