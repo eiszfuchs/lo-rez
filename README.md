@@ -34,7 +34,11 @@ Let's make this pack awesome - together!
 
 -   Thomas "CREEATION"
 
-    -   Logs, flowers, and plants
+    -   Logs, flowers, mushrooms, fruit, seeds, farmand blocks, and plants
+
+    -   Various redstone blocks and items
+
+    -   Cobwebs, some items, and stone textures
 
 
 # Questions?
