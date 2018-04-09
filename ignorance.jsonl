@@ -131,6 +131,8 @@
 {"name":"assets/minecraft/models/block/dark_oak_planks.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/daylight_detector.json","value":true}
+{"name":"assets/minecraft/models/block/daylight_detector_inverted.json","value":true}
 {"name":"assets/minecraft/models/block/dead_bush.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_flat.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_powered_flat.json","value":true}
