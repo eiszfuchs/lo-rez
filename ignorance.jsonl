@@ -344,9 +344,6 @@
 {"name":"assets/minecraft/models/block/magenta_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/magenta_wool.json","value":true}
 {"name":"assets/minecraft/models/block/magma.json","value":true}
-{"name":"assets/minecraft/models/block/nether_brick_fence_inventory.json","value":true}
-{"name":"assets/minecraft/models/block/nether_brick_fence_post.json","value":true}
-{"name":"assets/minecraft/models/block/nether_brick_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/melon.json","value":true}
 {"name":"assets/minecraft/models/block/mob_spawner_cage.json","value":true}
 {"name":"assets/minecraft/models/block/mossy_cobblestone.json","value":true}
@@ -354,6 +351,9 @@
 {"name":"assets/minecraft/models/block/mossy_cobblestone_wall_side.json","value":true}
 {"name":"assets/minecraft/models/block/mycelium.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick.json","value":true}
+{"name":"assets/minecraft/models/block/nether_brick_fence_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/nether_brick_fence_post.json","value":true}
+{"name":"assets/minecraft/models/block/nether_brick_fence_side.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick_inner_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick_outer_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick_stairs.json","value":true}
@@ -573,3 +573,4 @@
 {"name":"assets/minecraft/models/block/yellow_stained_glass_pane_side.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_wool.json","value":true}
+{"name":"assets/minecraft/textures/blocks/magma.png.mcmeta","value":false}
