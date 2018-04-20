@@ -3,6 +3,8 @@
 {"name":"assets/minecraft/models/block/acacia_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_door_top.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_door_top_rh.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_fence_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_fence_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_fence_side.json","value":true}
@@ -13,6 +15,8 @@
 {"name":"assets/minecraft/models/block/acacia_planks.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_wall_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_flat.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_raised_ne.json","value":true}
 {"name":"assets/minecraft/models/block/activator_rail_active_raised_sw.json","value":true}
@@ -30,6 +34,8 @@
 {"name":"assets/minecraft/models/block/birch_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_top.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_top_rh.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_side.json","value":true}
@@ -40,6 +46,8 @@
 {"name":"assets/minecraft/models/block/birch_planks.json","value":true}
 {"name":"assets/minecraft/models/block/birch_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/birch_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/birch_wall_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/birch_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/black_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/black_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/black_glazed_terracotta.json","value":true}
@@ -142,6 +150,8 @@
 {"name":"assets/minecraft/models/block/dark_oak_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_door_top.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_door_top_rh.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_side.json","value":true}
@@ -152,6 +162,8 @@
 {"name":"assets/minecraft/models/block/dark_oak_planks.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_wall_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/daylight_detector.json","value":true}
 {"name":"assets/minecraft/models/block/daylight_detector_inverted.json","value":true}
 {"name":"assets/minecraft/models/block/dead_bush.json","value":true}
@@ -320,6 +332,8 @@
 {"name":"assets/minecraft/models/block/jungle_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_door_top.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_door_top_rh.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_fence_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_fence_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_fence_side.json","value":true}
@@ -330,6 +344,8 @@
 {"name":"assets/minecraft/models/block/jungle_planks.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_wall_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/ladder.json","value":true}
 {"name":"assets/minecraft/models/block/lapis_block.json","value":true}
 {"name":"assets/minecraft/models/block/lapis_ore.json","value":true}
@@ -391,6 +407,8 @@
 {"name":"assets/minecraft/models/block/normal_torch_wall.json","value":true}
 {"name":"assets/minecraft/models/block/noteblock.json","value":true}
 {"name":"assets/minecraft/models/block/oak_bark.json","value":true}
+{"name":"assets/minecraft/models/block/oak_fence_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/oak_fence_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/oak_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/oak_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/oak_fence_side.json","value":true}
@@ -401,6 +419,8 @@
 {"name":"assets/minecraft/models/block/oak_planks.json","value":true}
 {"name":"assets/minecraft/models/block/oak_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/oak_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/oak_wall_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/oak_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/observer.json","value":true}
 {"name":"assets/minecraft/models/block/observer_powered.json","value":true}
 {"name":"assets/minecraft/models/block/obsidian.json","value":true}
@@ -519,6 +539,8 @@
 {"name":"assets/minecraft/models/block/spruce_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_door_top.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_door_top_rh.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_fence_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_fence_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_fence_side.json","value":true}
@@ -529,6 +551,8 @@
 {"name":"assets/minecraft/models/block/spruce_planks.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_wall_gate_closed.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stone.json","value":true}
 {"name":"assets/minecraft/models/block/stone_brick_inner_stairs.json","value":true}
