@@ -169,6 +169,7 @@
 {"name":"assets/minecraft/models/block/double_syringa_top.json","value":true}
 {"name":"assets/minecraft/models/block/emerald_block.json","value":true}
 {"name":"assets/minecraft/models/block/emerald_ore.json","value":true}
+{"name":"assets/minecraft/models/block/enchanting_table_base.json","value":true}
 {"name":"assets/minecraft/models/block/end_bricks.json","value":true}
 {"name":"assets/minecraft/models/block/end_stone.json","value":true}
 {"name":"assets/minecraft/models/block/farmland.json","value":false}
