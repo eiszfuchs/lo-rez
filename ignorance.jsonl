@@ -325,6 +325,8 @@
 {"name":"assets/minecraft/models/block/hardened_clay_white.json","value":true}
 {"name":"assets/minecraft/models/block/hardened_clay_yellow.json","value":true}
 {"name":"assets/minecraft/models/block/hay.json","value":true}
+{"name":"assets/minecraft/models/block/heavy_pressure_plate_down.json","value":true}
+{"name":"assets/minecraft/models/block/heavy_pressure_plate_up.json","value":true}
 {"name":"assets/minecraft/models/block/houstonia.json","value":true}
 {"name":"assets/minecraft/models/block/ice.json","value":true}
 {"name":"assets/minecraft/models/block/inner_stairs.json","value":true}
@@ -370,6 +372,8 @@
 {"name":"assets/minecraft/models/block/light_blue_stained_glass_pane_side.json","value":true}
 {"name":"assets/minecraft/models/block/light_blue_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/light_blue_wool.json","value":true}
+{"name":"assets/minecraft/models/block/light_pressure_plate_down.json","value":true}
+{"name":"assets/minecraft/models/block/light_pressure_plate_up.json","value":true}
 {"name":"assets/minecraft/models/block/lime_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/lime_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/lime_glazed_terracotta.json","value":true}
@@ -588,6 +592,8 @@
 {"name":"assets/minecraft/models/block/stone_inner_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stone_mirrored.json","value":true}
 {"name":"assets/minecraft/models/block/stone_outer_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/stone_pressure_plate_down.json","value":true}
+{"name":"assets/minecraft/models/block/stone_pressure_plate_up.json","value":true}
 {"name":"assets/minecraft/models/block/stone_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stonebrick_chiseled.json","value":true}
 {"name":"assets/minecraft/models/block/stonebrick_cracked.json","value":true}
