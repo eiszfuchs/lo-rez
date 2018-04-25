@@ -29,6 +29,10 @@
 {"name":"assets/minecraft/models/block/beacon.json","value":false}
 {"name":"assets/minecraft/models/block/bedrock.json","value":true}
 {"name":"assets/minecraft/models/block/bedrock_mirrored.json","value":true}
+{"name":"assets/minecraft/models/block/beetroots_stage0.json","value":true}
+{"name":"assets/minecraft/models/block/beetroots_stage1.json","value":true}
+{"name":"assets/minecraft/models/block/beetroots_stage2.json","value":true}
+{"name":"assets/minecraft/models/block/beetroots_stage3.json","value":true}
 {"name":"assets/minecraft/models/block/birch_bark.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_bottom_rh.json","value":true}
@@ -607,6 +611,14 @@
 {"name":"assets/minecraft/models/block/vine_u.json","value":true}
 {"name":"assets/minecraft/models/block/waterlily.json","value":true}
 {"name":"assets/minecraft/models/block/web.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage0.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage1.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage2.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage3.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage4.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage5.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage6.json","value":true}
+{"name":"assets/minecraft/models/block/wheat_stage7.json","value":true}
 {"name":"assets/minecraft/models/block/white_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/white_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/white_glazed_terracotta.json","value":true}
