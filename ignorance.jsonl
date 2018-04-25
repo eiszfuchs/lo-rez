@@ -460,6 +460,18 @@
 {"name":"assets/minecraft/models/block/pink_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/pink_tulip.json","value":true}
 {"name":"assets/minecraft/models/block/pink_wool.json","value":true}
+{"name":"assets/minecraft/models/block/piston.json","value":true}
+{"name":"assets/minecraft/models/block/piston_extended.json","value":true}
+{"name":"assets/minecraft/models/block/piston_extended_normal.json","value":true}
+{"name":"assets/minecraft/models/block/piston_head.json","value":true}
+{"name":"assets/minecraft/models/block/piston_head_normal.json","value":true}
+{"name":"assets/minecraft/models/block/piston_head_short.json","value":true}
+{"name":"assets/minecraft/models/block/piston_head_short_normal.json","value":true}
+{"name":"assets/minecraft/models/block/piston_head_short_sticky.json","value":true}
+{"name":"assets/minecraft/models/block/piston_head_sticky.json","value":true}
+{"name":"assets/minecraft/models/block/piston_inventory_normal.json","value":true}
+{"name":"assets/minecraft/models/block/piston_inventory_sticky.json","value":true}
+{"name":"assets/minecraft/models/block/piston_normal.json","value":true}
 {"name":"assets/minecraft/models/block/podzol.json","value":true}
 {"name":"assets/minecraft/models/block/poppy.json","value":true}
 {"name":"assets/minecraft/models/block/prismarine_bricks.json","value":true}
@@ -565,6 +577,7 @@
 {"name":"assets/minecraft/models/block/spruce_wall_gate_closed.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_wall_gate_open.json","value":true}
 {"name":"assets/minecraft/models/block/stairs.json","value":true}
+{"name":"assets/minecraft/models/block/sticky_piston.json","value":true}
 {"name":"assets/minecraft/models/block/stone.json","value":true}
 {"name":"assets/minecraft/models/block/stone_brick_inner_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stone_brick_outer_stairs.json","value":true}
