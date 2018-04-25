@@ -185,6 +185,8 @@
 {"name":"assets/minecraft/models/block/diorite.json","value":true}
 {"name":"assets/minecraft/models/block/diorite_smooth.json","value":true}
 {"name":"assets/minecraft/models/block/dirt.json","value":true}
+{"name":"assets/minecraft/models/block/dispenser.json","value":true}
+{"name":"assets/minecraft/models/block/dispenser_vertical.json","value":true}
 {"name":"assets/minecraft/models/block/double_fern_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/double_fern_top.json","value":true}
 {"name":"assets/minecraft/models/block/double_grass_bottom.json","value":true}
@@ -198,6 +200,8 @@
 {"name":"assets/minecraft/models/block/double_sunflower_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/double_syringa_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/double_syringa_top.json","value":true}
+{"name":"assets/minecraft/models/block/dropper.json","value":true}
+{"name":"assets/minecraft/models/block/dropper_vertical.json","value":true}
 {"name":"assets/minecraft/models/block/emerald_block.json","value":true}
 {"name":"assets/minecraft/models/block/emerald_ore.json","value":true}
 {"name":"assets/minecraft/models/block/enchanting_table_base.json","value":true}
@@ -642,6 +646,8 @@
 {"name":"assets/minecraft/models/block/wooden_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_door_top.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_door_top_rh.json","value":true}
+{"name":"assets/minecraft/models/block/wooden_pressure_plate_down.json","value":true}
+{"name":"assets/minecraft/models/block/wooden_pressure_plate_up.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_trapdoor_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_trapdoor_open.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_trapdoor_top.json","value":true}
