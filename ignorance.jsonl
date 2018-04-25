@@ -119,6 +119,10 @@
 {"name":"assets/minecraft/models/block/carpet_silver.json","value":true}
 {"name":"assets/minecraft/models/block/carpet_white.json","value":true}
 {"name":"assets/minecraft/models/block/carpet_yellow.json","value":true}
+{"name":"assets/minecraft/models/block/carrots_stage0.json","value":true}
+{"name":"assets/minecraft/models/block/carrots_stage1.json","value":true}
+{"name":"assets/minecraft/models/block/carrots_stage2.json","value":true}
+{"name":"assets/minecraft/models/block/carrots_stage3.json","value":true}
 {"name":"assets/minecraft/models/block/chorus_flower.json","value":true}
 {"name":"assets/minecraft/models/block/chorus_flower_dead.json","value":true}
 {"name":"assets/minecraft/models/block/chorus_plant.json","value":true}
@@ -413,6 +417,9 @@
 {"name":"assets/minecraft/models/block/nether_brick_outer_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/nether_wart_block.json","value":true}
+{"name":"assets/minecraft/models/block/nether_wart_stage0.json","value":true}
+{"name":"assets/minecraft/models/block/nether_wart_stage1.json","value":true}
+{"name":"assets/minecraft/models/block/nether_wart_stage2.json","value":true}
 {"name":"assets/minecraft/models/block/netherrack.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_curved.json","value":true}
 {"name":"assets/minecraft/models/block/normal_rail_flat.json","value":true}
@@ -478,6 +485,10 @@
 {"name":"assets/minecraft/models/block/piston_normal.json","value":true}
 {"name":"assets/minecraft/models/block/podzol.json","value":true}
 {"name":"assets/minecraft/models/block/poppy.json","value":true}
+{"name":"assets/minecraft/models/block/potatoes_stage0.json","value":true}
+{"name":"assets/minecraft/models/block/potatoes_stage1.json","value":true}
+{"name":"assets/minecraft/models/block/potatoes_stage2.json","value":true}
+{"name":"assets/minecraft/models/block/potatoes_stage3.json","value":true}
 {"name":"assets/minecraft/models/block/prismarine_bricks.json","value":true}
 {"name":"assets/minecraft/models/block/prismarine_dark.json","value":true}
 {"name":"assets/minecraft/models/block/prismarine_rough.json","value":true}
