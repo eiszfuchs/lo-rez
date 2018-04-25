@@ -26,6 +26,9 @@
 {"name":"assets/minecraft/models/block/allium.json","value":true}
 {"name":"assets/minecraft/models/block/andesite.json","value":true}
 {"name":"assets/minecraft/models/block/andesite_smooth.json","value":true}
+{"name":"assets/minecraft/models/block/anvil_slightly_damaged.json","value":true}
+{"name":"assets/minecraft/models/block/anvil_undamaged.json","value":true}
+{"name":"assets/minecraft/models/block/anvil_very_damaged.json","value":true}
 {"name":"assets/minecraft/models/block/beacon.json","value":false}
 {"name":"assets/minecraft/models/block/bedrock.json","value":true}
 {"name":"assets/minecraft/models/block/bedrock_mirrored.json","value":true}
@@ -562,6 +565,9 @@
 {"name":"assets/minecraft/models/block/stone_brick_inner_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stone_brick_outer_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stone_brick_stairs.json","value":true}
+{"name":"assets/minecraft/models/block/stone_button.json","value":true}
+{"name":"assets/minecraft/models/block/stone_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/stone_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/stone_inner_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/stone_mirrored.json","value":true}
 {"name":"assets/minecraft/models/block/stone_outer_stairs.json","value":true}
@@ -629,6 +635,9 @@
 {"name":"assets/minecraft/models/block/white_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/white_tulip.json","value":true}
 {"name":"assets/minecraft/models/block/white_wool.json","value":true}
+{"name":"assets/minecraft/models/block/wooden_button.json","value":true}
+{"name":"assets/minecraft/models/block/wooden_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/wooden_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_door_bottom_rh.json","value":true}
 {"name":"assets/minecraft/models/block/wooden_door_top.json","value":true}
