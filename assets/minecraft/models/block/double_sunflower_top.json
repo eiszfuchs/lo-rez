@@ -1,0 +1,59 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/double_plant_sunflower_front",
+        "cross": "blocks/double_plant_sunflower_top",
+        "back": "blocks/double_plant_sunflower_back",
+        "front": "blocks/double_plant_sunflower_front"
+    },
+    "elements": [
+        {
+            "from": [3.8, 0, 8],
+            "to": [12.2, 10, 8],
+            "shade": false,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [8, 8, 8],
+                "rescale": true
+            },
+            "faces": {
+                "north": {
+                    "uv": [2, 4, 14, 14],
+                    "texture": "#cross"
+                },
+                "south": {"uv": [2, 6, 14, 16], "texture": "#cross"}
+            }
+        },
+        {
+            "from": [8, 0, 3.8],
+            "to": [8, 10, 12.2],
+            "shade": false,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [8, 8, 8],
+                "rescale": true
+            },
+            "faces": {
+                "east": {"uv": [2, 6, 14, 16], "texture": "#cross"},
+                "west": {"uv": [2, 4, 14, 14], "texture": "#cross"}
+            }
+        },
+        {
+            "from": [9.2, 3, 1],
+            "to": [9.2, 15, 15],
+            "shade": false,
+            "rotation": {
+                "angle": 22.5,
+                "axis": "z",
+                "origin": [7.2, 9.7, 8],
+                "rescale": true
+            },
+            "faces": {
+                "east": {"uv": [0, 0, 16, 16], "texture": "#front"},
+                "west": {"uv": [0, 0, 16, 16], "texture": "#back"}
+            }
+        }
+    ]
+}
