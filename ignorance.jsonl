@@ -672,10 +672,11 @@
 {"name":"assets/minecraft/models/block/template_piston.json","value":true}
 {"name":"assets/minecraft/models/block/template_rail_raised_ne.json","value":true}
 {"name":"assets/minecraft/models/block/template_rail_raised_sw.json","value":true}
-{"name":"assets/minecraft/models/block/template_torch.json","value":true}
+{"name":"assets/minecraft/models/block/template_torch.json","value":false}
 {"name":"assets/minecraft/models/block/terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/thin_block.json","value":true}
 {"name":"assets/minecraft/models/block/tnt.json","value":true}
+{"name":"assets/minecraft/models/block/torch.json","value":true}
 {"name":"assets/minecraft/models/block/vine_1.json","value":true}
 {"name":"assets/minecraft/models/block/vine_1u.json","value":true}
 {"name":"assets/minecraft/models/block/vine_2.json","value":true}
