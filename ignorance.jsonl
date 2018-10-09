@@ -548,6 +548,8 @@
 {"name":"assets/minecraft/models/block/quartz_stairs_outer.json","value":true}
 {"name":"assets/minecraft/models/block/rail.json","value":true}
 {"name":"assets/minecraft/models/block/rail_corner.json","value":true}
+{"name":"assets/minecraft/models/block/rail_raised_ne.json","value":true}
+{"name":"assets/minecraft/models/block/rail_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/red_carpet.json","value":true}
 {"name":"assets/minecraft/models/block/red_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/red_concrete_powder.json","value":true}
@@ -670,8 +672,8 @@
 {"name":"assets/minecraft/models/block/tall_grass_top.json","value":true}
 {"name":"assets/minecraft/models/block/template_glazed_terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/template_piston.json","value":true}
-{"name":"assets/minecraft/models/block/template_rail_raised_ne.json","value":true}
-{"name":"assets/minecraft/models/block/template_rail_raised_sw.json","value":true}
+{"name":"assets/minecraft/models/block/template_rail_raised_ne.json","value":false}
+{"name":"assets/minecraft/models/block/template_rail_raised_sw.json","value":false}
 {"name":"assets/minecraft/models/block/template_torch.json","value":false}
 {"name":"assets/minecraft/models/block/terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/thin_block.json","value":true}
