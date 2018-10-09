@@ -1,10 +1,10 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/repeater_on",
-        "slab": "blocks/stone_slab_top",
-        "top": "blocks/repeater_on",
-        "torch": "blocks/redstone_torch_on"
+        "particle": "block/repeater_on",
+        "slab": "block/stone_slab_top",
+        "top": "block/repeater_on",
+        "torch": "block/redstone_torch"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
@@ -18,15 +18,15 @@
                 "east":  { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "east" }
             }
         },
-        {   "from": [ 6, 2, 6 ],
-            "to": [ 10, 6, 10 ],
+        {   "from": [ 6, 2, 10 ],
+            "to": [ 10, 8, 14 ],
             "faces": {
                 "down":  { "uv": [ 6, 12, 10, 16 ], "texture": "#torch" },
                 "up":    { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" },
-                "north": { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" },
-                "south": { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" },
-                "west":  { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" },
-                "east":  { "uv": [ 6,  4, 10,  8 ], "texture": "#torch" }
+                "north": { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "south": { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "west":  { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" },
+                "east":  { "uv": [ 6,  4, 10, 10 ], "texture": "#torch" }
             }
         },
         {   "from": [ 6, 2, 2 ],
