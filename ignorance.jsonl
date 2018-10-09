@@ -72,6 +72,7 @@
 {"name":"assets/minecraft/models/block/blue_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/blue_concrete_powder.json","value":true}
 {"name":"assets/minecraft/models/block/blue_glazed_terracotta.json","value":true}
+{"name":"assets/minecraft/models/block/blue_ice.json","value":true}
 {"name":"assets/minecraft/models/block/blue_orchid.json","value":true}
 {"name":"assets/minecraft/models/block/blue_stained_glass.json","value":true}
 {"name":"assets/minecraft/models/block/blue_stained_glass_pane_noside.json","value":true}
@@ -83,6 +84,7 @@
 {"name":"assets/minecraft/models/block/blue_wool.json","value":true}
 {"name":"assets/minecraft/models/block/bone_block.json","value":true}
 {"name":"assets/minecraft/models/block/bookshelf.json","value":true}
+{"name":"assets/minecraft/models/block/brain_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/brick_slab_top.json","value":true}
 {"name":"assets/minecraft/models/block/brick_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/brick_stairs_inner.json","value":true}
@@ -114,6 +116,7 @@
 {"name":"assets/minecraft/models/block/brown_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/brown_terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/brown_wool.json","value":true}
+{"name":"assets/minecraft/models/block/bubble_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/carrots_stage0.json","value":true}
 {"name":"assets/minecraft/models/block/carrots_stage1.json","value":true}
 {"name":"assets/minecraft/models/block/carrots_stage2.json","value":true}
@@ -194,7 +197,12 @@
 {"name":"assets/minecraft/models/block/dark_prismarine.json","value":true}
 {"name":"assets/minecraft/models/block/daylight_detector.json","value":true}
 {"name":"assets/minecraft/models/block/daylight_detector_inverted.json","value":true}
+{"name":"assets/minecraft/models/block/dead_brain_coral_block.json","value":true}
+{"name":"assets/minecraft/models/block/dead_bubble_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/dead_bush.json","value":true}
+{"name":"assets/minecraft/models/block/dead_fire_coral_block.json","value":true}
+{"name":"assets/minecraft/models/block/dead_horn_coral_block.json","value":true}
+{"name":"assets/minecraft/models/block/dead_tube_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_on.json","value":true}
 {"name":"assets/minecraft/models/block/detector_rail_on_raised_ne.json","value":true}
@@ -218,6 +226,7 @@
 {"name":"assets/minecraft/models/block/farmland.json","value":true}
 {"name":"assets/minecraft/models/block/farmland_moist.json","value":true}
 {"name":"assets/minecraft/models/block/fern.json","value":true}
+{"name":"assets/minecraft/models/block/fire_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/frosted_ice_0.json","value":true}
 {"name":"assets/minecraft/models/block/frosted_ice_1.json","value":true}
 {"name":"assets/minecraft/models/block/frosted_ice_2.json","value":true}
@@ -280,6 +289,7 @@
 {"name":"assets/minecraft/models/block/hay_block.json","value":true}
 {"name":"assets/minecraft/models/block/heavy_weighted_pressure_plate.json","value":true}
 {"name":"assets/minecraft/models/block/heavy_weighted_pressure_plate_down.json","value":true}
+{"name":"assets/minecraft/models/block/horn_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/ice.json","value":true}
 {"name":"assets/minecraft/models/block/inner_stairs.json","value":true}
 {"name":"assets/minecraft/models/block/iron_block.json","value":true}
@@ -387,6 +397,7 @@
 {"name":"assets/minecraft/models/block/mossy_cobblestone_wall_post.json","value":true}
 {"name":"assets/minecraft/models/block/mossy_cobblestone_wall_side.json","value":true}
 {"name":"assets/minecraft/models/block/mossy_stone_bricks.json","value":true}
+{"name":"assets/minecraft/models/block/mushroom_stem_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/mycelium.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/nether_brick_fence_post.json","value":true}
@@ -587,6 +598,7 @@
 {"name":"assets/minecraft/models/block/redstone_block.json","value":true}
 {"name":"assets/minecraft/models/block/redstone_lamp.json","value":true}
 {"name":"assets/minecraft/models/block/redstone_lamp_off.json","value":true}
+{"name":"assets/minecraft/models/block/redstone_lamp_on.json","value":true}
 {"name":"assets/minecraft/models/block/redstone_ore.json","value":true}
 {"name":"assets/minecraft/models/block/redstone_ore_on.json","value":true}
 {"name":"assets/minecraft/models/block/redstone_torch.json","value":true}
@@ -615,6 +627,7 @@
 {"name":"assets/minecraft/models/block/smooth_quartz.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_red_sandstone.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_sandstone.json","value":true}
+{"name":"assets/minecraft/models/block/smooth_stone.json","value":true}
 {"name":"assets/minecraft/models/block/snow_block.json","value":true}
 {"name":"assets/minecraft/models/block/snow_height10.json","value":true}
 {"name":"assets/minecraft/models/block/snow_height12.json","value":true}
@@ -624,6 +637,7 @@
 {"name":"assets/minecraft/models/block/snow_height6.json","value":true}
 {"name":"assets/minecraft/models/block/snow_height8.json","value":true}
 {"name":"assets/minecraft/models/block/soul_sand.json","value":true}
+{"name":"assets/minecraft/models/block/spawner.json","value":true}
 {"name":"assets/minecraft/models/block/sponge.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_bark.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_door_bottom.json","value":true}
@@ -672,13 +686,11 @@
 {"name":"assets/minecraft/models/block/tall_grass_top.json","value":true}
 {"name":"assets/minecraft/models/block/template_glazed_terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/template_piston.json","value":true}
-{"name":"assets/minecraft/models/block/template_rail_raised_ne.json","value":false}
-{"name":"assets/minecraft/models/block/template_rail_raised_sw.json","value":false}
-{"name":"assets/minecraft/models/block/template_torch.json","value":false}
 {"name":"assets/minecraft/models/block/terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/thin_block.json","value":true}
 {"name":"assets/minecraft/models/block/tnt.json","value":true}
 {"name":"assets/minecraft/models/block/torch.json","value":true}
+{"name":"assets/minecraft/models/block/tube_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/vine_1.json","value":true}
 {"name":"assets/minecraft/models/block/vine_1u.json","value":true}
 {"name":"assets/minecraft/models/block/vine_2.json","value":true}
