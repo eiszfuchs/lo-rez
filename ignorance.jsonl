@@ -48,6 +48,8 @@
 {"name":"assets/minecraft/models/block/birch_door_top_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_gate.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_gate_open.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_gate_wall.json","value":true}
+{"name":"assets/minecraft/models/block/birch_fence_gate_wall_open.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/birch_fence_side.json","value":true}
@@ -190,6 +192,8 @@
 {"name":"assets/minecraft/models/block/dark_oak_door_top_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_gate.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_gate_open.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_gate_wall.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_fence_gate_wall_open.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_post.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_fence_side.json","value":true}
