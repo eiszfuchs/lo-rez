@@ -3,7 +3,7 @@
         "particle": "#texture"
     },
     "elements": [
-        {   "from": [ 6, 0, 6 ],
+        {   "from": [ 6, -1, 6 ],
             "to": [ 10, 1, 10 ],
             "faces": {
                 "down":  { "uv": [ 6,  6, 10, 10 ], "texture": "#texture", "cullface": "down" },

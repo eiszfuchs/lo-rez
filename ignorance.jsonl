@@ -1,4 +1,7 @@
 {"name":"assets/minecraft/models/block/acacia_bark.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_button.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/acacia_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_door_bottom_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/acacia_door_top.json","value":true}
@@ -36,6 +39,9 @@
 {"name":"assets/minecraft/models/block/beetroots_stage2.json","value":true}
 {"name":"assets/minecraft/models/block/beetroots_stage3.json","value":true}
 {"name":"assets/minecraft/models/block/birch_bark.json","value":true}
+{"name":"assets/minecraft/models/block/birch_button.json","value":true}
+{"name":"assets/minecraft/models/block/birch_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/birch_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_bottom_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/birch_door_top.json","value":true}
@@ -175,6 +181,9 @@
 {"name":"assets/minecraft/models/block/damaged_anvil.json","value":true}
 {"name":"assets/minecraft/models/block/dandelion.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_bark.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_button.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/dark_oak_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_door_bottom_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/dark_oak_door_top.json","value":true}
@@ -304,6 +313,9 @@
 {"name":"assets/minecraft/models/block/jack_o_lantern.json","value":true}
 {"name":"assets/minecraft/models/block/jukebox.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_bark.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_button.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/jungle_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_door_bottom_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/jungle_door_top.json","value":true}
@@ -640,6 +652,9 @@
 {"name":"assets/minecraft/models/block/spawner.json","value":true}
 {"name":"assets/minecraft/models/block/sponge.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_bark.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_button.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_button_inventory.json","value":true}
+{"name":"assets/minecraft/models/block/spruce_button_pressed.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_door_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_door_bottom_hinge.json","value":true}
 {"name":"assets/minecraft/models/block/spruce_door_top.json","value":true}
