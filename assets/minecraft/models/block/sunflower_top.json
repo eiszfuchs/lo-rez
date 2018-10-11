@@ -1,16 +1,15 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/double_plant_sunflower_front",
-        "cross": "blocks/double_plant_sunflower_top",
-        "back": "blocks/double_plant_sunflower_back",
-        "front": "blocks/double_plant_sunflower_front"
+        "particle": "block/sunflower_front",
+        "cross": "block/sunflower_top",
+        "back": "block/sunflower_back",
+        "front": "block/sunflower_front"
     },
     "elements": [
         {
             "from": [3.8, 0, 8],
             "to": [12.2, 10, 8],
-            "shade": false,
             "rotation": {
                 "angle": 45,
                 "axis": "y",
@@ -28,7 +27,6 @@
         {
             "from": [8, 0, 3.8],
             "to": [8, 10, 12.2],
-            "shade": false,
             "rotation": {
                 "angle": 45,
                 "axis": "y",
@@ -43,7 +41,6 @@
         {
             "from": [9.2, 3, 1],
             "to": [9.2, 15, 15],
-            "shade": false,
             "rotation": {
                 "angle": 22.5,
                 "axis": "z",
