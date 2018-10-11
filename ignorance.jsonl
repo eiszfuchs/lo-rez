@@ -188,7 +188,6 @@
 {"name":"assets/minecraft/models/block/command_block.json","value":true}
 {"name":"assets/minecraft/models/block/command_block_conditional.json","value":true}
 {"name":"assets/minecraft/models/block/conduit.json","value":true}
-{"name":"assets/minecraft/models/block/coral_wall_fan.json","value":false}
 {"name":"assets/minecraft/models/block/cracked_stone_bricks.json","value":true}
 {"name":"assets/minecraft/models/block/crafting_table.json","value":true}
 {"name":"assets/minecraft/models/block/cube.json","value":true}
@@ -648,7 +647,6 @@
 {"name":"assets/minecraft/models/block/powered_rail_on_raised_sw.json","value":true}
 {"name":"assets/minecraft/models/block/powered_rail_raised_ne.json","value":true}
 {"name":"assets/minecraft/models/block/powered_rail_raised_sw.json","value":true}
-{"name":"assets/minecraft/models/block/pressure_plate_up.json","value":false}
 {"name":"assets/minecraft/models/block/prismarine.json","value":true}
 {"name":"assets/minecraft/models/block/prismarine_brick_slab.json","value":true}
 {"name":"assets/minecraft/models/block/prismarine_brick_slab_top.json","value":true}
@@ -860,8 +858,9 @@
 {"name":"assets/minecraft/models/block/tall_seagrass_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/tall_seagrass_top.json","value":true}
 {"name":"assets/minecraft/models/block/template_glazed_terracotta.json","value":true}
-{"name":"assets/minecraft/models/block/template_orientable_trapdoor_bottom.json","value":false}
 {"name":"assets/minecraft/models/block/template_piston.json","value":true}
+{"name":"assets/minecraft/models/block/template_piston_head.json","value":true}
+{"name":"assets/minecraft/models/block/template_piston_head_short.json","value":true}
 {"name":"assets/minecraft/models/block/terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/thin_block.json","value":true}
 {"name":"assets/minecraft/models/block/tnt.json","value":true}
