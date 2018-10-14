@@ -188,8 +188,11 @@
 {"name":"assets/minecraft/models/block/command_block.json","value":true}
 {"name":"assets/minecraft/models/block/command_block_conditional.json","value":true}
 {"name":"assets/minecraft/models/block/conduit.json","value":true}
+{"name":"assets/minecraft/models/block/coral_fan.json","value":true}
+{"name":"assets/minecraft/models/block/coral_wall_fan.json","value":true}
 {"name":"assets/minecraft/models/block/cracked_stone_bricks.json","value":true}
 {"name":"assets/minecraft/models/block/crafting_table.json","value":true}
+{"name":"assets/minecraft/models/block/crop.json","value":true}
 {"name":"assets/minecraft/models/block/cube.json","value":true}
 {"name":"assets/minecraft/models/block/cube_all.json","value":true}
 {"name":"assets/minecraft/models/block/cube_bottom_top.json","value":true}
@@ -316,6 +319,8 @@
 {"name":"assets/minecraft/models/block/fire_up1.json","value":true}
 {"name":"assets/minecraft/models/block/fire_up_alt0.json","value":true}
 {"name":"assets/minecraft/models/block/fire_up_alt1.json","value":true}
+{"name":"assets/minecraft/models/block/four_slightly_cracked_turtle_eggs.json","value":true}
+{"name":"assets/minecraft/models/block/four_very_cracked_turtle_eggs.json","value":true}
 {"name":"assets/minecraft/models/block/frosted_ice_0.json","value":true}
 {"name":"assets/minecraft/models/block/frosted_ice_1.json","value":true}
 {"name":"assets/minecraft/models/block/frosted_ice_2.json","value":true}
@@ -769,6 +774,7 @@
 {"name":"assets/minecraft/models/block/skull.json","value":true}
 {"name":"assets/minecraft/models/block/slab.json","value":true}
 {"name":"assets/minecraft/models/block/slab_top.json","value":true}
+{"name":"assets/minecraft/models/block/slightly_cracked_turtle_egg.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_quartz.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_red_sandstone.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_sandstone.json","value":true}
@@ -863,12 +869,17 @@
 {"name":"assets/minecraft/models/block/template_piston_head_short.json","value":true}
 {"name":"assets/minecraft/models/block/terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/thin_block.json","value":true}
+{"name":"assets/minecraft/models/block/three_slightly_cracked_turtle_eggs.json","value":true}
+{"name":"assets/minecraft/models/block/three_very_cracked_turtle_eggs.json","value":true}
 {"name":"assets/minecraft/models/block/tnt.json","value":true}
 {"name":"assets/minecraft/models/block/torch.json","value":true}
 {"name":"assets/minecraft/models/block/tube_coral.json","value":true}
 {"name":"assets/minecraft/models/block/tube_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/tube_coral_fan.json","value":true}
 {"name":"assets/minecraft/models/block/tube_coral_wall_fan.json","value":true}
+{"name":"assets/minecraft/models/block/two_slightly_cracked_turtle_eggs.json","value":true}
+{"name":"assets/minecraft/models/block/two_very_cracked_turtle_eggs.json","value":true}
+{"name":"assets/minecraft/models/block/very_cracked_turtle_egg.json","value":true}
 {"name":"assets/minecraft/models/block/vine_1.json","value":true}
 {"name":"assets/minecraft/models/block/vine_1u.json","value":true}
 {"name":"assets/minecraft/models/block/vine_2.json","value":true}
