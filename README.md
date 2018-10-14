@@ -34,11 +34,7 @@ Let's make this pack awesome - together!
 
 -   Thomas "CREEATION"
 
-    -   Logs, flowers, mushrooms, fruit, seeds, farmand blocks, and plants
-
-    -   Various redstone blocks and items
-
-    -   Cobwebs, some items, and stone textures
+    -   [Way](https://github.com/eiszfuchs/lo-rez/pull/1) [too](https://github.com/eiszfuchs/lo-rez/pull/2) [many](https://github.com/eiszfuchs/lo-rez/pull/3) [textures](https://github.com/eiszfuchs/lo-rez/pull/4) [and](https://github.com/eiszfuchs/lo-rez/pull/5) [models](https://github.com/eiszfuchs/lo-rez/pull/6) to list them all here! <3
 
 
 # Questions?
