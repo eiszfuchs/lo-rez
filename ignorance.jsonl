@@ -929,3 +929,11 @@
 {"name":"assets/minecraft/models/block/yellow_stained_glass_pane_side_alt.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_wool.json","value":true}
+{"name":"assets/minecraft/textures/block/fire_0.png","value":true}
+{"name":"assets/minecraft/textures/block/fire_1.png","value":true}
+{"name":"assets/minecraft/textures/block/lava_flow.png","value":true}
+{"name":"assets/minecraft/textures/block/lava_still.png","value":true}
+{"name":"assets/minecraft/textures/block/nether_portal.png","value":true}
+{"name":"assets/minecraft/textures/block/water_flow.png","value":true}
+{"name":"assets/minecraft/textures/block/water_overlay.png","value":true}
+{"name":"assets/minecraft/textures/block/water_still.png","value":true}
