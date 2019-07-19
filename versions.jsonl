@@ -188,6 +188,7 @@
 {"name":"assets/minecraft/textures/block/enchanting_table_bottom.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/enchanting_table_side.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/enchanting_table_top.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/end_rod.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/end_stone_bricks.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/farmland.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/farmland_moist.png","value":"1.14.3"}
@@ -392,6 +393,8 @@
 {"name":"assets/minecraft/textures/item/enchanted_book.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/ender_pearl.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/experience_bottle.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/fishing_rod.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/item/fishing_rod_cast.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/furnace_minecart.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/ghast_tear.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/glass_bottle.png","value":"1.14.2"}
