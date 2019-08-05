@@ -102,7 +102,10 @@
 {"name":"assets/minecraft/models/block/two_sea_pickles.json","value":"1.14.2"}
 {"name":"assets/minecraft/models/block/two_turtle_eggs.json","value":"1.14.2"}
 {"name":"assets/minecraft/models/block/wall_inventory.json","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/acacia_door_bottom.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/acacia_door_top.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/acacia_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/acacia_trapdoor.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/allium.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/anvil.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/anvil_top.png","value":"1.14.2"}
@@ -375,6 +378,8 @@
 {"name":"assets/minecraft/textures/block/yellow_stained_glass_pane_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/yellow_terracotta.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/yellow_wool.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/acacia_boat.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/item/acacia_door.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/acacia_sign.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/arrow.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/barrier.png","value":"1.14.3"}
