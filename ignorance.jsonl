@@ -49,6 +49,7 @@
 {"name":"assets/minecraft/models/block/attached_melon_stem.json","value":true}
 {"name":"assets/minecraft/models/block/attached_pumpkin_stem.json","value":true}
 {"name":"assets/minecraft/models/block/azure_bluet.json","value":true}
+{"name":"assets/minecraft/models/block/bamboo_sapling.json","value":true}
 {"name":"assets/minecraft/models/block/banner.json","value":true}
 {"name":"assets/minecraft/models/block/barrel.json","value":true}
 {"name":"assets/minecraft/models/block/barrel_open.json","value":true}
@@ -887,6 +888,8 @@
 {"name":"assets/minecraft/models/block/sandstone_wall_inventory.json","value":true}
 {"name":"assets/minecraft/models/block/sandstone_wall_post.json","value":true}
 {"name":"assets/minecraft/models/block/sandstone_wall_side.json","value":true}
+{"name":"assets/minecraft/models/block/scaffolding_stable.json","value":true}
+{"name":"assets/minecraft/models/block/scaffolding_unstable.json","value":true}
 {"name":"assets/minecraft/models/block/sea_lantern.json","value":true}
 {"name":"assets/minecraft/models/block/seagrass.json","value":true}
 {"name":"assets/minecraft/models/block/shulker_box.json","value":true}
@@ -895,6 +898,9 @@
 {"name":"assets/minecraft/models/block/slab.json","value":true}
 {"name":"assets/minecraft/models/block/slab_top.json","value":true}
 {"name":"assets/minecraft/models/block/slightly_cracked_turtle_egg.json","value":true}
+{"name":"assets/minecraft/models/block/smithing_table.json","value":true}
+{"name":"assets/minecraft/models/block/smoker.json","value":true}
+{"name":"assets/minecraft/models/block/smoker_on.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_quartz.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_quartz_slab.json","value":true}
 {"name":"assets/minecraft/models/block/smooth_quartz_slab_top.json","value":true}
@@ -1004,6 +1010,10 @@
 {"name":"assets/minecraft/models/block/structure_void.json","value":true}
 {"name":"assets/minecraft/models/block/sugar_cane.json","value":true}
 {"name":"assets/minecraft/models/block/sunflower_bottom.json","value":true}
+{"name":"assets/minecraft/models/block/sweet_berry_bush_stage0.json","value":true}
+{"name":"assets/minecraft/models/block/sweet_berry_bush_stage1.json","value":true}
+{"name":"assets/minecraft/models/block/sweet_berry_bush_stage2.json","value":true}
+{"name":"assets/minecraft/models/block/sweet_berry_bush_stage3.json","value":true}
 {"name":"assets/minecraft/models/block/tall_grass_bottom.json","value":true}
 {"name":"assets/minecraft/models/block/tall_grass_top.json","value":true}
 {"name":"assets/minecraft/models/block/tall_seagrass_bottom.json","value":true}
@@ -1061,6 +1071,7 @@
 {"name":"assets/minecraft/models/block/white_terracotta.json","value":true}
 {"name":"assets/minecraft/models/block/white_tulip.json","value":true}
 {"name":"assets/minecraft/models/block/white_wool.json","value":true}
+{"name":"assets/minecraft/models/block/wither_rose.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_carpet.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_concrete.json","value":true}
 {"name":"assets/minecraft/models/block/yellow_concrete_powder.json","value":true}
