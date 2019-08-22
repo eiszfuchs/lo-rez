@@ -129,6 +129,10 @@
 {"name":"assets/minecraft/textures/block/bamboo_stalk.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/beacon.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/bedrock.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/beetroots_stage0.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/beetroots_stage1.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/beetroots_stage2.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/beetroots_stage3.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/birch_leaves.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/black_concrete.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/black_concrete_powder.png","value":"1.14.2"}
@@ -177,6 +181,10 @@
 {"name":"assets/minecraft/textures/block/cake_inner.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/cake_side.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/cake_top.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/carrots_stage0.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/carrots_stage1.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/carrots_stage2.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/carrots_stage3.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chain_command_block_back.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chain_command_block_conditional.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chain_command_block_front.png","value":"1.14.4"}
@@ -351,6 +359,9 @@
 {"name":"assets/minecraft/textures/block/melon_stem.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/melon_top.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/nether_bricks.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/nether_wart_stage0.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/nether_wart_stage1.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/nether_wart_stage2.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/oak_leaves.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/obsidian.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/orange_concrete.png","value":"1.14.2"}
@@ -370,6 +381,10 @@
 {"name":"assets/minecraft/textures/block/pink_stained_glass_pane_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/pink_terracotta.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/pink_wool.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/potatoes_stage0.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/potatoes_stage1.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/potatoes_stage2.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/potatoes_stage3.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/powered_rail.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/powered_rail_on.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/prismarine_bricks.png","value":"1.14.3"}
@@ -456,6 +471,7 @@
 {"name":"assets/minecraft/textures/item/arrow.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/barrier.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/birch_sign.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/black_dye.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/blaze_powder.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/blaze_rod.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/bone.png","value":"1.14.2"}
@@ -509,6 +525,7 @@
 {"name":"assets/minecraft/textures/item/diamond_pickaxe.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/diamond_shovel.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/diamond_sword.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/item/dragon_breath.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/dried_kelp.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/egg.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/elytra.png","value":"1.14.4"}
