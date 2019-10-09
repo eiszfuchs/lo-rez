@@ -5,6 +5,8 @@
 {"name":"assets/minecraft/models/block/bamboo2_age1.json","value":"1.14.4"}
 {"name":"assets/minecraft/models/block/bamboo3_age0.json","value":"1.14.4"}
 {"name":"assets/minecraft/models/block/bamboo3_age1.json","value":"1.14.4"}
+{"name":"assets/minecraft/models/block/bamboo4_age0.json","value":"1.14.4"}
+{"name":"assets/minecraft/models/block/bamboo4_age1.json","value":"1.14.4"}
 {"name":"assets/minecraft/models/block/beacon.json","value":"1.14.2"}
 {"name":"assets/minecraft/models/block/brewing_stand.json","value":"1.14.4"}
 {"name":"assets/minecraft/models/block/brewing_stand_bottle0.json","value":"1.14.4"}
@@ -63,6 +65,7 @@
 {"name":"assets/minecraft/models/block/lever_on.json","value":"1.14.3"}
 {"name":"assets/minecraft/models/block/nether_portal_ew.json","value":"1.14.3"}
 {"name":"assets/minecraft/models/block/nether_portal_ns.json","value":"1.14.3"}
+{"name":"assets/minecraft/models/block/potted_bamboo.json","value":"1.14.4"}
 {"name":"assets/minecraft/models/block/potted_cactus.json","value":"1.14.2"}
 {"name":"assets/minecraft/models/block/potted_fern.json","value":"1.14.3"}
 {"name":"assets/minecraft/models/block/pressure_plate_down.json","value":"1.14.3"}
@@ -134,6 +137,7 @@
 {"name":"assets/minecraft/textures/block/attached_melon_stem.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/attached_pumpkin_stem.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/azure_bluet.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/bamboo_stage0.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/bamboo_stalk.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/barrel_bottom.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/barrel_side.png","value":"1.14.4"}
@@ -622,6 +626,7 @@
 {"name":"assets/minecraft/textures/item/golden_shovel.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/golden_sword.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/gray_dye.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/green_dye.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/gunpowder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/heart_of_the_sea.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/hopper.png","value":"1.14.4"}
@@ -709,6 +714,7 @@
 {"name":"assets/minecraft/textures/item/rabbit_foot.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/rabbit_hide.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/rabbit_stew.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/red_dye.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/redstone.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/repeater.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/rotten_flesh.png","value":"1.14.3"}
@@ -762,3 +768,4 @@
 {"name":"assets/minecraft/textures/item/wooden_sword.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/writable_book.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/written_book.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/yellow_dye.png","value":"1.14.4"}
