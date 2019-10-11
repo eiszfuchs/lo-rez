@@ -219,6 +219,9 @@
 {"name":"assets/minecraft/textures/block/chain_command_block_side.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chipped_anvil_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/chiseled_stone_bricks.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/chorus_flower.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/chorus_flower_dead.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/chorus_plant.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/clay.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/coal_ore.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/coarse_dirt.png","value":"1.14.4"}
@@ -257,6 +260,7 @@
 {"name":"assets/minecraft/textures/block/dark_oak_log_top.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/dark_oak_planks.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/dark_oak_sapling.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/dark_oak_trapdoor.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/daylight_detector_inverted_top.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/daylight_detector_side.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/daylight_detector_top.png","value":"1.14.4"}
@@ -357,6 +361,7 @@
 {"name":"assets/minecraft/textures/block/jungle_log_top.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/jungle_planks.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/jungle_sapling.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/jungle_trapdoor.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/ladder.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/lapis_ore.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/lever.png","value":"1.14.2"}
@@ -575,6 +580,7 @@
 {"name":"assets/minecraft/textures/item/charcoal.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/chest_minecart.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/chicken.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/item/chorus_fruit.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/clay_ball.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/clock_00.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/coal.png","value":"1.14.4"}
