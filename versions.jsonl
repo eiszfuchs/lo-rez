@@ -570,6 +570,7 @@
 {"name":"assets/minecraft/textures/item/broken_elytra.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/brown_dye.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/bucket.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/cake.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/carrot.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/carrot_on_a_stick.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/cauldron.png","value":"1.14.4"}
@@ -601,7 +602,7 @@
 {"name":"assets/minecraft/textures/item/creeper_banner_pattern.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/cyan_dye.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/dark_oak_sign.png","value":"1.14.2"}
-{"name":"assets/minecraft/textures/item/diamond.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/item/diamond.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/diamond_axe.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/diamond_boots.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/diamond_chestplate.png","value":"1.14.4"}
