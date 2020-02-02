@@ -340,6 +340,10 @@
 {"name":"assets/minecraft/textures/block/fire_coral_block.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/fire_coral_fan.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/flower_pot.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/frosted_ice_0.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/frosted_ice_1.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/frosted_ice_2.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/glass.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/glass_pane_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/glowstone.png","value":"1.14.2"}
