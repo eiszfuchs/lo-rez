@@ -57,6 +57,10 @@
 {"name":"assets/minecraft/models/block/bed.json","value":true}
 {"name":"assets/minecraft/models/block/bedrock.json","value":true}
 {"name":"assets/minecraft/models/block/bedrock_mirrored.json","value":true}
+{"name":"assets/minecraft/models/block/bee_nest.json","value":true}
+{"name":"assets/minecraft/models/block/bee_nest_honey.json","value":true}
+{"name":"assets/minecraft/models/block/beehive.json","value":true}
+{"name":"assets/minecraft/models/block/beehive_honey.json","value":true}
 {"name":"assets/minecraft/models/block/beetroots_stage0.json","value":true}
 {"name":"assets/minecraft/models/block/beetroots_stage1.json","value":true}
 {"name":"assets/minecraft/models/block/beetroots_stage2.json","value":true}
@@ -440,6 +444,7 @@
 {"name":"assets/minecraft/models/block/hay_block.json","value":true}
 {"name":"assets/minecraft/models/block/heavy_weighted_pressure_plate.json","value":true}
 {"name":"assets/minecraft/models/block/heavy_weighted_pressure_plate_down.json","value":true}
+{"name":"assets/minecraft/models/block/honeycomb_block.json","value":true}
 {"name":"assets/minecraft/models/block/horn_coral.json","value":true}
 {"name":"assets/minecraft/models/block/horn_coral_block.json","value":true}
 {"name":"assets/minecraft/models/block/horn_coral_fan.json","value":true}

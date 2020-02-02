@@ -57,6 +57,7 @@
 {"name":"assets/minecraft/models/block/four_sea_pickles.json","value":"1.14.3"}
 {"name":"assets/minecraft/models/block/four_turtle_eggs.json","value":"1.14.2"}
 {"name":"assets/minecraft/models/block/grass_path.json","value":"1.14.3"}
+{"name":"assets/minecraft/models/block/honey_block.json","value":"1.15.2"}
 {"name":"assets/minecraft/models/block/hopper.json","value":"1.14.3"}
 {"name":"assets/minecraft/models/block/hopper_side.json","value":"1.14.3"}
 {"name":"assets/minecraft/models/block/iron_bars_post.json","value":"1.14.4"}
@@ -145,6 +146,15 @@
 {"name":"assets/minecraft/textures/block/barrel_top_open.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/beacon.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/bedrock.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/bee_nest_bottom.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/bee_nest_front.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/bee_nest_front_honey.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/bee_nest_side.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/bee_nest_top.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/beehive_end.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/beehive_front.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/beehive_front_honey.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/beehive_side.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/beetroots_stage0.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/beetroots_stage1.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/beetroots_stage2.png","value":"1.14.4"}
@@ -714,6 +724,7 @@
 {"name":"assets/minecraft/textures/item/green_dye.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/gunpowder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/item/heart_of_the_sea.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/item/honey_bottle.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/item/hopper.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/hopper_minecart.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/ink_sac.png","value":"1.14.4"}
