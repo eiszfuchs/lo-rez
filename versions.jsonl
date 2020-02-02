@@ -175,6 +175,10 @@
 {"name":"assets/minecraft/textures/block/black_stained_glass_pane_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/black_terracotta.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/black_wool.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/blast_furnace_front.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/blast_furnace_front_on.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/blast_furnace_side.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/blast_furnace_top.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/blue_concrete.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/blue_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/blue_glazed_terracotta.png","value":"1.14.4"}
@@ -577,6 +581,10 @@
 {"name":"assets/minecraft/textures/block/structure_block_load.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/structure_block_save.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/sugar_cane.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/sunflower_back.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/sunflower_bottom.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/sunflower_front.png","value":"1.15.2"}
+{"name":"assets/minecraft/textures/block/sunflower_top.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/terracotta.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/tnt_bottom.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/block/tnt_side.png","value":"1.14.3"}
@@ -599,6 +607,7 @@
 {"name":"assets/minecraft/textures/block/white_stained_glass_pane_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/white_terracotta.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/white_wool.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/block/wither_rose.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/yellow_concrete.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/yellow_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/yellow_glazed_terracotta.png","value":"1.14.2"}
@@ -616,6 +625,7 @@
 {"name":"assets/minecraft/textures/item/baked_potato.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/bamboo.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/barrier.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/item/beef.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/item/beetroot_seeds.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/birch_boat.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/birch_door.png","value":"1.14.4"}
@@ -697,6 +707,7 @@
 {"name":"assets/minecraft/textures/item/ender_eye.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/ender_pearl.png","value":"1.14.3"}
 {"name":"assets/minecraft/textures/item/experience_bottle.png","value":"1.14.2"}
+{"name":"assets/minecraft/textures/item/feather.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/item/firework_rocket.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/firework_star.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/firework_star_overlay.png","value":"1.14.4"}
