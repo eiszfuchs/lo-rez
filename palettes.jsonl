@@ -10,6 +10,7 @@
 {"name":"assets/minecraft/textures/block/allium.png","value":["#00000000","#d2a6f6ff","#b878edff","#a65ee1ff","#e8cffeff","#7b4ea0ff","#4a8f28ff","#529a2eff","#55ab2dff","#177c04ff"]}
 {"name":"assets/minecraft/textures/block/ancient_debris_side.png","value":["#5d342cff","#654740ff","#4a2c23ff","#411e15ff","#331810ff","#7e6059ff","#95867eff"]}
 {"name":"assets/minecraft/textures/block/ancient_debris_top.png","value":["#411e15ff","#7e6059ff","#95867eff","#654740ff","#4a2c23ff","#331810ff","#5d342cff"]}
+{"name":"assets/minecraft/textures/block/andesite.png","value":["#7f7f7fff","#747474ff","#9c9c9cff","#8a8a8eff","#686868ff","#a8aa9aff"]}
 {"name":"assets/minecraft/textures/block/anvil.png","value":["#3d3d3dff","#424242ff","#4a4a4aff","#5a5a5aff","#525252ff","#383838ff","#4b4b4bff"]}
 {"name":"assets/minecraft/textures/block/anvil_top.png","value":["#00000000","#424242ff","#4a4a4aff","#525252ff","#3d3d3dff","#383838ff"]}
 {"name":"assets/minecraft/textures/block/attached_melon_stem.png","value":["#00000000","#c5c6c5ff","#626162ff","#8b8d8bff","#b4b2b4ff"]}
@@ -21,6 +22,8 @@
 {"name":"assets/minecraft/textures/block/barrel_side.png","value":["#997140ff","#8b673cff","#664d28ff","#553a1fff","#805e36ff","#453f3bff","#302c29ff","#28221cff","#785836ff","#6b5332ff"]}
 {"name":"assets/minecraft/textures/block/barrel_top.png","value":["#805e36ff","#8b673cff","#997140ff","#664d28ff","#6b5332ff","#7a7a7aff","#5b5b5bff"]}
 {"name":"assets/minecraft/textures/block/barrel_top_open.png","value":["#805e36ff","#8b673cff","#997140ff","#664d28ff","#6b5332ff","#463112ff","#38260cff","#2f1f09ff"]}
+{"name":"assets/minecraft/textures/block/basalt_side.png","value":["#4f4b4fff","#1b2632ff","#3a3b48ff","#5c5c5cff","#32333dff"]}
+{"name":"assets/minecraft/textures/block/basalt_top.png","value":["#5c5c5cff","#747474ff","#4f4b4fff","#353641ff","#898989ff","#3d3e4cff","#1b2632ff"]}
 {"name":"assets/minecraft/textures/block/beacon.png","value":["#ffffffff","#2bb9b0ff","#2bcbc0ff","#ccecf0ff","#49d5ccff","#6fe3dcff","#9cf2edff","#c4fffeff","#d6fffeff","#eeffffff"]}
 {"name":"assets/minecraft/textures/block/bedrock.png","value":["#636363ff","#333333ff","#575757ff","#979797ff","#222222ff"]}
 {"name":"assets/minecraft/textures/block/bee_nest_bottom.png","value":["#6f533aff","#7a5737ff","#bc986dff","#a28166ff","#c8a671ff"]}
@@ -81,14 +84,17 @@
 {"name":"assets/minecraft/textures/block/carrots_stage1.png","value":["#00000000","#4a8f28ff","#55ab2dff","#2b702aff","#266325ff"]}
 {"name":"assets/minecraft/textures/block/carrots_stage2.png","value":["#00000000","#2b702aff","#4a8f28ff","#266325ff","#55ab2dff","#7e3d0eff"]}
 {"name":"assets/minecraft/textures/block/carrots_stage3.png","value":["#00000000","#266325ff","#4a8f28ff","#2b702aff","#55ab2dff","#204626ff","#c46f14ff","#e38a1dff","#412118ff","#ab6112ff","#7e3d0eff"]}
+{"name":"assets/minecraft/textures/block/cauldron_bottom.png","value":["#2d2d32ff","#27272bff","#00000000","#343438ff"]}
 {"name":"assets/minecraft/textures/block/cauldron_inner.png","value":["#3f3e42ff","#343438ff","#2d2d32ff","#27272bff"]}
 {"name":"assets/minecraft/textures/block/cauldron_side.png","value":["#4f4f4fff","#595858ff","#676161ff","#494848ff","#2d2d32ff","#343438ff","#3f3e42ff","#5d5d5dff"]}
 {"name":"assets/minecraft/textures/block/cauldron_top.png","value":["#4f4f4fff","#595858ff","#676161ff","#2d2d32ff","#343438ff","#3f3e42ff","#494848ff","#00000000"]}
+{"name":"assets/minecraft/textures/block/chain.png","value":["#00000000","#252c3dff","#495065ff","#3e4453ff"]}
 {"name":"assets/minecraft/textures/block/chipped_anvil_top.png","value":["#00000000","#424242ff","#4a4a4aff","#525252ff","#3d3d3dff","#383838ff","#5a5a5aff","#727070ff"]}
 {"name":"assets/minecraft/textures/block/cobblestone.png","value":["#6e6d6dff","#616161ff","#a6a6a6ff","#525252ff","#b5b5b5ff","#888788ff"]}
 {"name":"assets/minecraft/textures/block/cobweb.png","value":["#c4ced2ff","#00000000","#ffffffff","#e4e9e9ff"]}
 {"name":"assets/minecraft/textures/block/comparator.png","value":["#7b7d7bff","#8b8d8bff","#bbbbbbff","#acaaacff","#c5cac5ff","#d5d8d5ff","#d3c7b9ff","#ddcbbeff","#c5b8a9ff","#ebded4ff","#580101ff","#470102ff","#2c0300ff"]}
 {"name":"assets/minecraft/textures/block/comparator_on.png","value":["#7b7d7bff","#8b8d8bff","#bbbbbbff","#acaaacff","#c5cac5ff","#d5d8d5ff","#d3c7b9ff","#ddcbbeff","#c5b8a9ff","#ebded4ff","#ff0000ff","#d70304ff","#b10002ff"]}
+{"name":"assets/minecraft/textures/block/composter_bottom.png","value":["#87582eff","#78491fff","#5c3411ff","#512b0aff"]}
 {"name":"assets/minecraft/textures/block/composter_compost.png","value":["#00000000","#4a3018ff","#6a4418ff","#524c10ff","#523c18ff","#8b5920ff","#ac6520ff"]}
 {"name":"assets/minecraft/textures/block/composter_ready.png","value":["#00000000","#4a3018ff","#6a4418ff","#524c10ff","#523c18ff","#83674bff","#dbd1a6ff","#b4a973ff","#5f4832ff","#8b5920ff","#ac6520ff"]}
 {"name":"assets/minecraft/textures/block/composter_side.png","value":["#b4753eff","#a37043ff","#87582eff","#78491fff","#512b0aff","#5c3411ff","#3e250eff","#251405ff","#46310eff","#5e390eff","#7e4d15ff","#464006ff"]}
@@ -173,8 +179,8 @@
 {"name":"assets/minecraft/textures/block/flower_pot.png","value":["#00000000","#834939ff","#894c3bff","#794334ff","#743f31ff","#67392dff"]}
 {"name":"assets/minecraft/textures/block/frosted_ice_0.png","value":["#80adfbbe","#92b9febe","#cde0ffbe","#a1c3ffbe","#6fa4fcbe","#c8dcffbe"]}
 {"name":"assets/minecraft/textures/block/frosted_ice_1.png","value":["#80adfbbe","#92b9febe","#cde0ffbe","#a1c3ffbe","#74a6fbee","#71a4fcee","#6fa4fcbe","#6499f3ee","#92b9feee","#8eb6fdee","#9abefeee","#9ec0feee","#96bcffee","#c8dcffbe"]}
-{"name":"assets/minecraft/textures/block/frosted_ice_2.png","value":["#80adfbbe","#92b9febe","#cde0ffbe","#a1c3ffbe","#77a9fdee","#92b9feee","#9ec0feee","#74a6fbee","#8eb6fdee","#9abefeee","#71a4fcee","#6fa4fcbe","#6297f3ee","#6499f3ee","#7aabfdee","#a1c3ffee","#679bf3ee","#6a9ef4ee","#abc9ffee","#9fc1ffee","#72a2f4ee","#c8dcffbe"]}
-{"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":["#80adfbbe","#92b9febe","#cde0ffbe","#a1c3ffbe","#74a6fbee","#77a9fdee","#92b9feee","#7aabfdee","#9ec0feee","#9abefeee","#8eb6fdee","#6297f3ee","#6fa4fcbe","#6499f3ee","#a1c3ffee","#6a9ef4ee","#679bf3ee","#abc9ffee","#9fc1ffee","#96bcffee","#72a2f4ee","#c8dcffbe","#71a4fcee","#97bcfeee"]}
+{"name":"assets/minecraft/textures/block/frosted_ice_2.png","value":["#80adfbbe","#92b9febe","#cde0ffbe","#a1c3ffbe","#77a9fdee","#92b9feee","#74a6fbee","#8eb6fdee","#9abefeee","#71a4fcee","#6fa4fcbe","#6297f3ee","#6499f3ee","#7aabfdee","#a1c3ffee","#679bf3ee","#6a9ef4ee","#abc9ffee","#72a2f4ee","#c8dcffbe"]}
+{"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":["#80adfbbe","#92b9febe","#cde0ffbe","#a1c3ffbe","#74a6fbee","#77a9fdee","#92b9feee","#9ec0feee","#9abefeee","#8eb6fdee","#6fa4fcbe","#6499f3ee","#abc9ffee","#72a2f4ee","#c8dcffbe"]}
 {"name":"assets/minecraft/textures/block/glass.png","value":["#d0eae9ff","#a8d0d9ff","#00000000","#7baeb7ff","#8bc1cdff"]}
 {"name":"assets/minecraft/textures/block/glass_pane_top.png","value":["#00000000","#fefefeff","#c0f5feff","#b3d6dbff"]}
 {"name":"assets/minecraft/textures/block/gold_block.png","value":["#f5cc27ff","#f9bd23ff","#d39632ff","#fffd90ff","#feffbdff","#ffec4fff","#ffd83eff","#fee048ff","#cc8e27ff"]}
