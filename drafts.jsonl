@@ -1,3 +1,4 @@
+{"name":"assets/minecraft/textures/block/bookshelf.png","value":true}
 {"name":"assets/minecraft/textures/block/fern.png","value":true}
 {"name":"assets/minecraft/textures/block/frosted_ice_0.png","value":true}
 {"name":"assets/minecraft/textures/block/frosted_ice_1.png","value":true}
@@ -6,7 +7,13 @@
 {"name":"assets/minecraft/textures/block/ice.png","value":true}
 {"name":"assets/minecraft/textures/block/oak_trapdoor.png","value":true}
 {"name":"assets/minecraft/textures/block/spawner.png","value":true}
+{"name":"assets/minecraft/textures/item/feather.png","value":true}
 {"name":"assets/minecraft/textures/item/green_dye.png","value":true}
 {"name":"assets/minecraft/textures/item/netherite_ingot.png","value":true}
 {"name":"assets/minecraft/textures/item/netherite_scrap.png","value":true}
+{"name":"assets/minecraft/textures/item/popped_chorus_fruit.png","value":true}
+{"name":"assets/minecraft/textures/item/quartz.png","value":true}
+{"name":"assets/minecraft/textures/item/saddle.png","value":true}
+{"name":"assets/minecraft/textures/item/sea_pickle.png","value":true}
+{"name":"assets/minecraft/textures/item/totem_of_undying.png","value":true}
 {"name":"assets/minecraft/textures/item/turtle_helmet.png","value":true}
