@@ -270,6 +270,8 @@
 {"name":"assets/minecraft/textures/block/crafting_table_front.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/crafting_table_side.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/crafting_table_top.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/crimson_nylium.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/crimson_nylium_side.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/crimson_trapdoor.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/crying_obsidian.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/cut_red_sandstone.png","value":"1.16.5"}
@@ -628,6 +630,8 @@
 {"name":"assets/minecraft/textures/block/turtle_egg_slightly_cracked.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/turtle_egg_very_cracked.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/vine.png","value":"1.14.4"}
+{"name":"assets/minecraft/textures/block/warped_nylium.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/warped_nylium_side.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/warped_trapdoor.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/white_concrete.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/white_concrete_powder.png","value":"1.14.2"}

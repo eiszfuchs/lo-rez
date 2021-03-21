@@ -113,6 +113,8 @@
 {"name":"assets/minecraft/textures/block/crafting_table_front.png","value":["#19140cff","#af8f55ff","#b8945fff","#c29d62ff","#382116ff","#733920ff","#4b2b18ff","#967441ff","#9f844dff","#7e6237ff","#67502cff","#1b160dff","#41230eff","#281e0bff","#b5b5b5ff","#ffffffff","#d8d8d8ff","#110e08ff"]}
 {"name":"assets/minecraft/textures/block/crafting_table_side.png","value":["#19140cff","#af8f55ff","#b8945fff","#c29d62ff","#382116ff","#733920ff","#4b2b18ff","#967441ff","#9f844dff","#262012ff","#7e6237ff","#67502cff","#1b160dff","#41230eff","#281e0bff","#d8d8d8ff","#b5b5b5ff","#110e08ff"]}
 {"name":"assets/minecraft/textures/block/crafting_table_top.png","value":["#19140cff","#0e0b06ff","#41230eff","#733920ff","#1a150dff","#bc9862ff","#9e5932ff","#ae693cff","#553824ff","#4b2b18ff"]}
+{"name":"assets/minecraft/textures/block/crimson_nylium.png","value":["#854242ff","#7b0000ff","#652828ff","#723232ff","#941818ff","#ac2020ff","#bd3031ff"]}
+{"name":"assets/minecraft/textures/block/crimson_nylium_side.png","value":["#941818ff","#ac2020ff","#7b0000ff","#bd3031ff","#6a0400ff","#5a0000ff","#511515ff","#572121ff","#652828ff","#411616ff","#723232ff","#501b1bff","#854242ff"]}
 {"name":"assets/minecraft/textures/block/crimson_trapdoor.png","value":["#5c3042ff","#4b2737ff","#863e5aff","#7e3a56ff","#924160ff","#6a344bff","#00000000"]}
 {"name":"assets/minecraft/textures/block/crying_obsidian.png","value":["#06030bff","#000001ff","#2b0178ff","#100c1cff","#3b2754ff","#271e3dff","#6006abff","#8308e4ff"]}
 {"name":"assets/minecraft/textures/block/cut_red_sandstone.png","value":["#d97b30ff","#d2752bff","#cb6e24ff","#c06822ff","#b2601fff","#ac5712ff","#9f4e0bff"]}
@@ -366,6 +368,8 @@
 {"name":"assets/minecraft/textures/block/tnt_side.png","value":["#ea4318ff","#db2f1aff","#b11527ff","#912d11ff","#ffffffff","#cececeff","#ddd9d9ff","#373656ff","#1b1a3cff","#beb2b3ff"]}
 {"name":"assets/minecraft/textures/block/tnt_top.png","value":["#db2f1aff","#ea4318ff","#8e8e8eff","#b11527ff","#565656ff","#912d11ff","#11111eff"]}
 {"name":"assets/minecraft/textures/block/torch.png","value":["#00000000","#ffd800ff","#ff8f00ff","#ffff97ff","#ffffffff","#9f7f50ff","#6d5736ff","#957546ff","#55452eff","#423522ff","#3d301dff","#3b2e1bff","#372a17ff"]}
+{"name":"assets/minecraft/textures/block/warped_nylium.png","value":["#568353ff","#16615bff","#3e4f58ff","#456b52ff","#167e86ff","#119b85ff","#14b485ff"]}
+{"name":"assets/minecraft/textures/block/warped_nylium_side.png","value":["#167e86ff","#119b85ff","#3e4f58ff","#14b485ff","#16615bff","#303c35ff","#511515ff","#572121ff","#652828ff","#411616ff","#723232ff","#501b1bff","#854242ff"]}
 {"name":"assets/minecraft/textures/block/warped_trapdoor.png","value":["#2e5f51ff","#1f5752ff","#3a8e8cff","#398382ff","#369d91ff","#287067ff","#00000000"]}
 {"name":"assets/minecraft/textures/block/white_shulker_box.png","value":["#cad0d1ff","#dee3e3ff","#cfd5d6ff","#c5cccdff","#bec4c5ff","#d5dadbff","#e4e9e9ff","#e6eaeaff","#e2e7e7ff","#b6bcbdff","#bac0c1ff"]}
 {"name":"assets/minecraft/textures/block/white_stained_glass.png","value":["#ffffffa3","#ffffff66","#ffffff9b"]}
