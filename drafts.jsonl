@@ -1,3 +1,4 @@
+{"name":"assets/minecraft/textures/block/bell_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/bookshelf.png","value":true}
 {"name":"assets/minecraft/textures/block/fern.png","value":true}
 {"name":"assets/minecraft/textures/block/frosted_ice_0.png","value":true}
@@ -6,6 +7,8 @@
 {"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":true}
 {"name":"assets/minecraft/textures/block/ice.png","value":true}
 {"name":"assets/minecraft/textures/block/oak_trapdoor.png","value":true}
+{"name":"assets/minecraft/textures/block/peony_bottom.png","value":true}
+{"name":"assets/minecraft/textures/block/peony_top.png","value":true}
 {"name":"assets/minecraft/textures/block/spawner.png","value":true}
 {"name":"assets/minecraft/textures/block/water_still.png","value":true}
 {"name":"assets/minecraft/textures/item/feather.png","value":true}
