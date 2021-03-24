@@ -629,6 +629,7 @@
 {"name":"assets/minecraft/textures/item/shulker_shell.png","value":["#00000000","#523460ff","#ab84aaff","#976997ff","#6c486bff","#432650ff","#845289ff","#8f638fff"]}
 {"name":"assets/minecraft/textures/item/slime_ball.png","value":["#00000000","#477a42ff","#71ac63ff","#76be6dff","#34532fff","#8cd782ff","#508049ff","#ffffffff","#c9feceff","#57914fff"]}
 {"name":"assets/minecraft/textures/item/snowball.png","value":["#00000000","#afcacaff","#d0f1f1ff","#e8f8f8ff","#7ba6a6ff","#ffffffff","#c2dadaff"]}
+{"name":"assets/minecraft/textures/item/soul_lantern.png","value":["#00000000","#3e4453ff","#495065ff","#03969aff","#2ac9cfff","#74f1f5ff","#ffffffff","#cffdffff"]}
 {"name":"assets/minecraft/textures/item/spawn_egg.png","value":["#00000000","#7f7f7fff","#6c6c6cff","#ddddddff","#e9e9e9ff","#f2f2f2ff","#e2e2e2ff","#dbdbdbff","#eeeeeeff","#e1e1e1ff","#c9c9c9ff","#efefefff","#f6f6f6ff","#e7e7e7ff","#e8e8e8ff","#e5e5e5ff","#dfdfdfff","#656565ff","#e0e0e0ff","#f0f0f0ff","#5f5f5fff","#c4c4c4ff","#636363ff"]}
 {"name":"assets/minecraft/textures/item/spawn_egg_overlay.png","value":["#00000000","#808080ff","#7e7e7eff","#a3a3a3ff","#a7a7a7ff","#cdcdcdff","#8e8e8eff","#797979ff","#7f7f7fff","#a6a6a6ff","#b7b7b7ff","#c9c9c9ff","#afafafff","#cececeff","#cbcbcbff","#868686ff","#dededeff","#bebebeff","#7d7d7dff","#e2e2e2ff","#7c7c7cff","#c2c2c2ff","#a8a8a8ff","#6f6f6fff","#757575ff","#6e6e6eff","#777777ff"]}
 {"name":"assets/minecraft/textures/item/spectral_arrow.png","value":["#00000000","#dab930ff","#ffffffff","#7b3f05ff","#ffff77ff","#cf8c27ff"]}
