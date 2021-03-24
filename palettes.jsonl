@@ -290,6 +290,7 @@
 {"name":"assets/minecraft/textures/block/oak_planks.png","value":["#b8945fff","#af8f55ff","#c29d62ff","#967441ff","#9f844dff","#7e6237ff","#67502cff"]}
 {"name":"assets/minecraft/textures/block/oak_sapling.png","value":["#00000000","#408f2fff","#57ad3fff","#1f6519ff","#105210ff","#7f6139ff","#70532eff","#5a3f1eff","#4c3214ff"]}
 {"name":"assets/minecraft/textures/block/oak_trapdoor.png","value":["#4a3c20ff","#625029ff","#8b7141ff","#9c794aff","#735d31ff","#00000000","#b38c51ff"]}
+{"name":"assets/minecraft/textures/block/observer_top.png","value":["#383838ff","#272727ff","#323232ff","#727272ff","#646464ff","#8f8f8fff","#7a7a7aff","#515151ff","#7f7f7fff","#989898ff","#afafafff","#595959ff","#949494ff","#868686ff","#2b2b2bff","#232323ff","#444444ff","#5d5d5dff","#4b4b4bff","#6b6b6bff"]}
 {"name":"assets/minecraft/textures/block/obsidian.png","value":["#06030bff","#000001ff","#100c1cff","#3b2754ff","#271e3dff"]}
 {"name":"assets/minecraft/textures/block/orange_concrete.png","value":["#e16302ff","#df6000ff","#e16201ff","#e16100ff","#e06100ff","#e16202ff","#e06000ff","#de6000ff","#e16303ff","#e16101ff"]}
 {"name":"assets/minecraft/textures/block/orange_glazed_terracotta.png","value":["#f9801dff","#169c9cff","#f9a537ff","#faad45ff","#f9fffeff","#1cc6c6ff","#1bbabaff","#16a3a3ff","#faa93dff","#17a8a8ff","#d95c00ff","#f06600ff","#e16100ff","#ffe4bdff","#157788ff","#17acacff"]}
@@ -348,6 +349,8 @@
 {"name":"assets/minecraft/textures/block/redstone_dust_line0.png","value":["#00000000","#ebebebff","#fefefeff","#d9d9d9ff"]}
 {"name":"assets/minecraft/textures/block/redstone_dust_line1.png","value":["#00000000","#ebebebff","#fefefeff","#d9d9d9ff"]}
 {"name":"assets/minecraft/textures/block/redstone_dust_overlay.png","value":["#00000000"]}
+{"name":"assets/minecraft/textures/block/redstone_lamp.png","value":["#311a11ff","#462c1bff","#5f3315ff","#864e29ff","#a06036ff","#af693bff","#935831ff","#90552dff"]}
+{"name":"assets/minecraft/textures/block/redstone_lamp_on.png","value":["#3b2015ff","#463714ff","#946931ff","#e6994aff","#f6dab4ff","#f2bd74ff"]}
 {"name":"assets/minecraft/textures/block/redstone_torch.png","value":["#00000000","#fd0000ff","#ffd800ff","#ff8f00ff","#ffff97ff","#ffffffff","#af0000ff","#957546ff","#55452eff","#9f7f50ff","#423522ff","#6d5736ff","#3d301dff","#3b2e1bff","#372a17ff"]}
 {"name":"assets/minecraft/textures/block/redstone_torch_off.png","value":["#00000000","#560000ff","#480000ff","#290000ff","#9f7f50ff","#6d5736ff","#957546ff","#55452eff","#423522ff","#3d301dff","#3b2e1bff","#372a17ff"]}
 {"name":"assets/minecraft/textures/block/repeater.png","value":["#7b7d7bff","#8b8d8bff","#bbbbbbff","#acaaacff","#c5cac5ff","#787878ff","#d5d8d5ff","#580101ff","#470102ff","#2c0300ff"]}
