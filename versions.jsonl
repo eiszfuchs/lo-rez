@@ -490,6 +490,7 @@
 {"name":"assets/minecraft/textures/block/oak_planks.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_sapling.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_trapdoor.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/observer_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/obsidian.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/orange_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/orange_concrete_powder.png","value":"1.14.2"}
@@ -563,6 +564,8 @@
 {"name":"assets/minecraft/textures/block/redstone_dust_line0.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/redstone_dust_line1.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/redstone_dust_overlay.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/redstone_lamp.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/redstone_lamp_on.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/redstone_ore.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/redstone_torch.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/redstone_torch_off.png","value":"1.16.5"}
