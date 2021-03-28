@@ -347,6 +347,7 @@
 {"name":"assets/minecraft/textures/block/pink_wool.png","value":["#ec7ea1ff","#e07197ff","#f38aaaff","#e6789cff","#f49ab5ff","#da6a92ff","#e27298ff","#dd6d94ff","#f38caaff","#f494b1ff","#f4b2c9ff","#ef83a4ff","#d76690ff","#de6e95ff","#f4a7c0ff","#f288a8ff","#f498b4ff","#f4a5beff","#d86790ff","#df6f96ff","#d96992ff","#dc6c94ff","#d86791ff","#d96891ff"]}
 {"name":"assets/minecraft/textures/block/piston_top.png","value":["#dbdbdbff","#cac4c4ff","#7c623eff","#695433ff","#bc9862ff","#b38c51ff","#705838ff","#9f844dff"]}
 {"name":"assets/minecraft/textures/block/piston_top_sticky.png","value":["#dbdbdbff","#cac4c4ff","#7c623eff","#695433ff","#bc9862ff","#84c774ff","#b38c51ff","#705838ff","#6bb959ff","#5e9c4fff","#abeb9cff","#3f7432ff","#9f844dff","#336128ff"]}
+{"name":"assets/minecraft/textures/block/polished_basalt_side.png","value":["#32333dff","#3a3b48ff","#4f4b4fff","#747474ff","#5c5c5cff","#1b2632ff"]}
 {"name":"assets/minecraft/textures/block/polished_basalt_top.png","value":["#32333dff","#3d3e4cff","#747474ff","#4f4b4fff","#353641ff","#5c5c5cff","#898989ff"]}
 {"name":"assets/minecraft/textures/block/polished_blackstone.png","value":["#4e4b54ff","#3c3947ff","#312c36ff","#160f10ff","#27221cff","#1f121bff"]}
 {"name":"assets/minecraft/textures/block/polished_blackstone_bricks.png","value":["#312c36ff","#4e4b54ff","#3c3947ff","#160f10ff","#27221cff","#1f121bff"]}
