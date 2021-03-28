@@ -1,5 +1,6 @@
 {"name":"assets/minecraft/textures/block/acacia_door_bottom.png","value":["#6f6f6fff","#ae5d34ff","#6c3b1fff","#82492aff","#965837ff","#565656ff","#ba5d3bff","#00000000","#c5724aff","#cb774fff","#353535ff"]}
 {"name":"assets/minecraft/textures/block/acacia_door_top.png","value":["#cb774fff","#c5724aff","#82492aff","#b25b3bff","#ae5d34ff","#ba5d3bff","#9e5f3fff","#6c3b1fff","#965837ff","#00000000","#353535ff","#6f6f6fff","#515151ff","#727272ff"]}
+{"name":"assets/minecraft/textures/block/acacia_leaves.png","value":["#888787ff","#00000000","#b5b5b5ff","#6d6a6aff","#9e9e9eff","#878787ff"]}
 {"name":"assets/minecraft/textures/block/acacia_log.png","value":["#696259ff","#585349ff","#7b7368ff","#504b40ff","#5b554dff","#8d8477ff"]}
 {"name":"assets/minecraft/textures/block/acacia_log_top.png","value":["#696259ff","#575249ff","#504c44ff","#4b473eff","#ba6337ff","#ad5d32ff","#c26d3fff","#8f4c2aff","#99502bff","#a05630ff","#45413aff"]}
 {"name":"assets/minecraft/textures/block/acacia_planks.png","value":["#ba6337ff","#ad5d32ff","#c26d3fff","#99502bff","#a05630ff","#8f4c2aff","#884728ff"]}
@@ -42,6 +43,7 @@
 {"name":"assets/minecraft/textures/block/bell_bottom.png","value":["#e9b115ff","#f2bb4aff","#ffdd5aff","#00000000","#aa8623ff","#8c6b0dff","#7b5e0dff"]}
 {"name":"assets/minecraft/textures/block/birch_door_bottom.png","value":["#5b3e1fff","#d7cb8dff","#a59467ff","#eeeadeff","#eee6d5ff","#fff6e6ff","#dbd2a1ff","#c8b77aff","#9e8b61ff","#e3dbafff","#f6f2deff","#b8a875ff","#d7c185ff","#442e17ff"]}
 {"name":"assets/minecraft/textures/block/birch_door_top.png","value":["#d7cb8dff","#dbd2a1ff","#d7c185ff","#a59467ff","#b8a875ff","#9e8b61ff","#f6f2deff","#eeeadeff","#e3dbafff","#442e17ff","#5b3e1fff","#eee6d5ff","#fff6e6ff"]}
+{"name":"assets/minecraft/textures/block/birch_leaves.png","value":["#888787ff","#00000000","#706d70ff","#989998ff","#b7b9b7ff"]}
 {"name":"assets/minecraft/textures/block/birch_log.png","value":["#f0eeebff","#ded3d5ff","#d8d8ceff","#ffffffff","#bebeaeff","#605e54ff","#36342aff","#eef1eaff"]}
 {"name":"assets/minecraft/textures/block/birch_log_top.png","value":["#ffffffff","#ebebe7ff","#999682ff","#514f47ff","#d7c185ff","#c8b77aff","#d7cb8dff","#a59467ff","#ae9f76ff","#b8a875ff"]}
 {"name":"assets/minecraft/textures/block/birch_planks.png","value":["#d7c185ff","#c8b77aff","#d7cb8dff","#ae9f76ff","#b8a875ff","#a59467ff","#9e8b61ff"]}
@@ -135,6 +137,7 @@
 {"name":"assets/minecraft/textures/block/dandelion.png","value":["#00000000","#ffec4fff","#fed639ff","#f19d25ff","#bd6a22ff","#177c04ff","#4a8f28ff","#55ab2dff"]}
 {"name":"assets/minecraft/textures/block/dark_oak_door_bottom.png","value":["#6f6f6fff","#493116ff","#53361aff","#cc9400ff","#3d2812ff","#5a422cff","#412b13ff","#291a0cff","#624224ff","#724a24ff","#353535ff","#32210fff"]}
 {"name":"assets/minecraft/textures/block/dark_oak_door_top.png","value":["#5a422cff","#53361aff","#493116ff","#3d2812ff","#412b13ff","#291a0cff","#624224ff","#353535ff","#6f6f6fff","#724a24ff","#32210fff","#ffe500ff","#cc9400ff","#a57700ff"]}
+{"name":"assets/minecraft/textures/block/dark_oak_leaves.png","value":["#706d70ff","#00000000","#b7b9b7ff","#989998ff","#7d7b7dff"]}
 {"name":"assets/minecraft/textures/block/dark_oak_log.png","value":["#3f311dff","#302513ff","#4a381eff","#292011ff","#332715ff","#584428ff"]}
 {"name":"assets/minecraft/textures/block/dark_oak_log_top.png","value":["#3f311dff","#362a18ff","#271e10ff","#1f180dff","#4f3218ff","#492f17ff","#53381aff","#301e0eff","#3a2411ff","#3e2912ff","#332715ff"]}
 {"name":"assets/minecraft/textures/block/dark_oak_planks.png","value":["#4f3218ff","#492f17ff","#53381aff","#3a2411ff","#3e2912ff","#301e0eff","#291a0cff"]}
@@ -246,6 +249,7 @@
 {"name":"assets/minecraft/textures/block/jukebox_top.png","value":["#292820ff","#352f2bff","#5a3420ff","#5a3c29ff","#7b5039ff","#945d41ff","#181514ff"]}
 {"name":"assets/minecraft/textures/block/jungle_door_bottom.png","value":["#6f6f6fff","#b98661ff","#ae7e5aff","#976a44ff","#68462fff","#d2a478ff","#a17249ff","#c1926bff","#785437ff","#353535ff"]}
 {"name":"assets/minecraft/textures/block/jungle_door_top.png","value":["#c1926bff","#d2a478ff","#68462fff","#976a44ff","#ae7e5aff","#b98661ff","#a17249ff","#785437ff","#00000000","#353535ff","#6f6f6fff","#686868ff","#494949ff","#333333ff"]}
+{"name":"assets/minecraft/textures/block/jungle_leaves.png","value":["#00000000","#706d70ff","#888787ff","#989998ff","#b7b9b7ff","#a98b22ff","#dec25fff","#c09e27ff","#bd9b26ff","#ecdca5ff","#e1c870ff"]}
 {"name":"assets/minecraft/textures/block/jungle_log.png","value":["#59461aff","#684e20ff","#7d5d26ff","#503f16ff","#403612ff","#3e3013ff","#544d1aff","#766626ff","#635820ff"]}
 {"name":"assets/minecraft/textures/block/jungle_log_top.png","value":["#7d5d26ff","#635820ff","#403612ff","#3e3013ff","#b88764ff","#aa7954ff","#bf8e6bff","#976a44ff","#9f714aff"]}
 {"name":"assets/minecraft/textures/block/jungle_planks.png","value":["#b88764ff","#aa7954ff","#bf8e6bff","#976a44ff","#9f714aff","#785437ff","#68462fff"]}
@@ -309,6 +313,7 @@
 {"name":"assets/minecraft/textures/block/note_block.png","value":["#292820ff","#5a3c29ff","#7b5039ff","#945d41ff","#412818ff","#5a3420ff"]}
 {"name":"assets/minecraft/textures/block/oak_door_bottom.png","value":["#6b6f7aff","#967441ff","#67502cff","#7e6237ff","#b58d50ff","#513d24ff","#a6824dff","#b8945fff","#808b95ff"]}
 {"name":"assets/minecraft/textures/block/oak_door_top.png","value":["#b8945fff","#a6824dff","#967441ff","#67502cff","#513d24ff","#00000000","#808b95ff","#b58d50ff","#7e6237ff","#6f6f6fff","#6b6f7aff"]}
+{"name":"assets/minecraft/textures/block/oak_leaves.png","value":["#686468ff","#00000000","#b9bcb9ff","#989998ff","#777577ff"]}
 {"name":"assets/minecraft/textures/block/oak_log.png","value":["#745a36ff","#4c3d26ff","#917142ff","#382b18ff","#5f4a2bff","#987849ff"]}
 {"name":"assets/minecraft/textures/block/oak_log_top.png","value":["#5f4a2bff","#4c3d26ff","#745a36ff","#b8945fff","#af8f55ff","#c29d62ff","#7e6237ff","#967441ff","#9f844dff"]}
 {"name":"assets/minecraft/textures/block/oak_planks.png","value":["#b8945fff","#af8f55ff","#c29d62ff","#967441ff","#9f844dff","#7e6237ff","#67502cff"]}
@@ -632,6 +637,7 @@
 {"name":"assets/minecraft/textures/item/shulker_shell.png","value":["#00000000","#523460ff","#ab84aaff","#976997ff","#6c486bff","#432650ff","#845289ff","#8f638fff"]}
 {"name":"assets/minecraft/textures/item/slime_ball.png","value":["#00000000","#477a42ff","#71ac63ff","#76be6dff","#34532fff","#8cd782ff","#508049ff","#ffffffff","#c9feceff","#57914fff"]}
 {"name":"assets/minecraft/textures/item/snowball.png","value":["#00000000","#afcacaff","#d0f1f1ff","#e8f8f8ff","#7ba6a6ff","#ffffffff","#c2dadaff"]}
+{"name":"assets/minecraft/textures/item/soul_lantern.png","value":["#00000000","#3e4453ff","#495065ff","#03969aff","#2ac9cfff","#74f1f5ff","#ffffffff","#cffdffff"]}
 {"name":"assets/minecraft/textures/item/spawn_egg.png","value":["#00000000","#7f7f7fff","#6c6c6cff","#ddddddff","#e9e9e9ff","#f2f2f2ff","#e2e2e2ff","#dbdbdbff","#eeeeeeff","#e1e1e1ff","#c9c9c9ff","#efefefff","#f6f6f6ff","#e7e7e7ff","#e8e8e8ff","#e5e5e5ff","#dfdfdfff","#656565ff","#e0e0e0ff","#f0f0f0ff","#5f5f5fff","#c4c4c4ff","#636363ff"]}
 {"name":"assets/minecraft/textures/item/spawn_egg_overlay.png","value":["#00000000","#808080ff","#7e7e7eff","#a3a3a3ff","#a7a7a7ff","#cdcdcdff","#8e8e8eff","#797979ff","#7f7f7fff","#a6a6a6ff","#b7b7b7ff","#c9c9c9ff","#afafafff","#cececeff","#cbcbcbff","#868686ff","#dededeff","#bebebeff","#7d7d7dff","#e2e2e2ff","#7c7c7cff","#c2c2c2ff","#a8a8a8ff","#6f6f6fff","#757575ff","#6e6e6eff","#777777ff"]}
 {"name":"assets/minecraft/textures/item/spectral_arrow.png","value":["#00000000","#dab930ff","#ffffffff","#7b3f05ff","#ffff77ff","#cf8c27ff"]}

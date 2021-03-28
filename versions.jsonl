@@ -123,7 +123,7 @@
 {"name":"assets/minecraft/models/block/wall_inventory.json","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/acacia_door_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/acacia_door_top.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/block/acacia_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/acacia_leaves.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/acacia_log.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/acacia_log_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/acacia_planks.png","value":"1.16.5"}
@@ -166,7 +166,7 @@
 {"name":"assets/minecraft/textures/block/bell_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/birch_door_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/birch_door_top.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/block/birch_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/birch_leaves.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/birch_log.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/birch_log_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/birch_planks.png","value":"1.16.5"}
@@ -289,7 +289,7 @@
 {"name":"assets/minecraft/textures/block/dandelion.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/dark_oak_door_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/dark_oak_door_top.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/block/dark_oak_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/dark_oak_leaves.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/dark_oak_log.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/dark_oak_log_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/dark_oak_planks.png","value":"1.16.5"}
@@ -411,7 +411,7 @@
 {"name":"assets/minecraft/textures/block/jukebox_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/jungle_door_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/jungle_door_top.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/block/jungle_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/jungle_leaves.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/jungle_log.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/jungle_log_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/jungle_planks.png","value":"1.16.5"}
@@ -484,7 +484,7 @@
 {"name":"assets/minecraft/textures/block/note_block.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_door_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_door_top.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/block/oak_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/oak_leaves.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_log.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_log_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/oak_planks.png","value":"1.16.5"}
@@ -597,7 +597,7 @@
 {"name":"assets/minecraft/textures/block/sponge.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/spruce_door_bottom.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/spruce_door_top.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/block/spruce_leaves.png","value":"1.14.3"}
+{"name":"assets/minecraft/textures/block/spruce_leaves.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/spruce_log.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/spruce_log_top.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/spruce_planks.png","value":"1.16.5"}
@@ -917,6 +917,7 @@
 {"name":"assets/minecraft/textures/item/skull_banner_pattern.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/item/slime_ball.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/item/snowball.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/item/soul_lantern.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/item/spawn_egg.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/item/spawn_egg_overlay.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/item/spectral_arrow.png","value":"1.16.5"}
