@@ -245,13 +245,13 @@
 {"name":"assets/minecraft/textures/block/chiseled_polished_blackstone.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/chiseled_red_sandstone.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chiseled_sandstone.png","value":"1.14.4"}
-{"name":"assets/minecraft/textures/block/chiseled_stone_bricks.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/chiseled_stone_bricks.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/chorus_flower.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/chorus_flower_dead.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/chorus_plant.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/clay.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/coal_block.png","value":"1.14.4"}
-{"name":"assets/minecraft/textures/block/coal_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/coal_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/coarse_dirt.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/cobblestone.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/cobweb.png","value":"1.17"}
@@ -323,6 +323,8 @@
 {"name":"assets/minecraft/textures/block/dead_tube_coral.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/dead_tube_coral_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/dead_tube_coral_fan.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/deepslate.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/deepslate_bricks.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/deepslate_tiles.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/destroy_stage_0.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/destroy_stage_1.png","value":"1.17"}
@@ -337,7 +339,7 @@
 {"name":"assets/minecraft/textures/block/detector_rail.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/detector_rail_on.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/diamond_block.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/diamond_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/diamond_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/diorite.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/dirt.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/dispenser_front.png","value":"1.17"}
@@ -349,7 +351,7 @@
 {"name":"assets/minecraft/textures/block/dropper_front.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/dropper_front_vertical.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/emerald_block.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/emerald_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/emerald_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/enchanting_table_bottom.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/enchanting_table_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/enchanting_table_top.png","value":"1.17"}
@@ -377,7 +379,7 @@
 {"name":"assets/minecraft/textures/block/glass_pane_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/glowstone.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/gold_block.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/gold_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/gold_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/grass.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/grass_block_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/grass_block_side_overlay.png","value":"1.14.2"}
@@ -416,7 +418,7 @@
 {"name":"assets/minecraft/textures/block/iron_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/iron_door_bottom.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/iron_door_top.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/iron_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/iron_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/iron_trapdoor.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/item_frame.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/jack_o_lantern.png","value":"1.17"}
@@ -432,7 +434,7 @@
 {"name":"assets/minecraft/textures/block/jungle_trapdoor.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/ladder.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/lapis_block.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/lapis_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/lapis_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/lever.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/light_blue_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/light_blue_concrete_powder.png","value":"1.14.2"}
@@ -534,7 +536,7 @@
 {"name":"assets/minecraft/textures/block/polished_basalt_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/polished_basalt_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/polished_blackstone.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/polished_blackstone_bricks.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/polished_blackstone_bricks.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/poppy.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/potatoes_stage0.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/potatoes_stage1.png","value":"1.17"}
@@ -557,6 +559,7 @@
 {"name":"assets/minecraft/textures/block/purpur_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/purpur_pillar.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/purpur_pillar_top.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/quartz_bricks.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/quartz_pillar.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/quartz_pillar_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/rail.png","value":"1.17"}
@@ -583,7 +586,7 @@
 {"name":"assets/minecraft/textures/block/redstone_dust_overlay.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/redstone_lamp.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/redstone_lamp_on.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/redstone_ore.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/redstone_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/redstone_torch.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/redstone_torch_off.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/repeater.png","value":"1.17"}
