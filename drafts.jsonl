@@ -1,10 +1,10 @@
 {"name":"assets/minecraft/textures/block/acacia_leaves.png","value":true}
-{"name":"assets/minecraft/textures/block/amethyst_block.png","value":true}
+{"name":"assets/minecraft/textures/block/amethyst_cluster.png","value":true}
 {"name":"assets/minecraft/textures/block/bell_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/bell_top.png","value":true}
 {"name":"assets/minecraft/textures/block/birch_leaves.png","value":true}
 {"name":"assets/minecraft/textures/block/bookshelf.png","value":true}
-{"name":"assets/minecraft/textures/block/chiseled_stone_bricks.png","value":true}
+{"name":"assets/minecraft/textures/block/chiseled_quartz_block_top.png","value":true}
 {"name":"assets/minecraft/textures/block/coarse_dirt.png","value":true}
 {"name":"assets/minecraft/textures/block/copper_block.png","value":true}
 {"name":"assets/minecraft/textures/block/cornflower.png","value":true}
@@ -23,11 +23,15 @@
 {"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":true}
 {"name":"assets/minecraft/textures/block/glowstone.png","value":true}
 {"name":"assets/minecraft/textures/block/gravel.png","value":true}
+{"name":"assets/minecraft/textures/block/honey_block_side.png","value":true}
+{"name":"assets/minecraft/textures/block/honey_block_top.png","value":true}
 {"name":"assets/minecraft/textures/block/ice.png","value":true}
 {"name":"assets/minecraft/textures/block/jungle_leaves.png","value":true}
+{"name":"assets/minecraft/textures/block/large_amethyst_bud.png","value":true}
 {"name":"assets/minecraft/textures/block/light_gray_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/lily_of_the_valley.png","value":true}
 {"name":"assets/minecraft/textures/block/magma.png","value":true}
+{"name":"assets/minecraft/textures/block/medium_amethyst_bud.png","value":true}
 {"name":"assets/minecraft/textures/block/nether_gold_ore.png","value":true}
 {"name":"assets/minecraft/textures/block/oak_leaves.png","value":true}
 {"name":"assets/minecraft/textures/block/oak_trapdoor.png","value":true}
@@ -35,6 +39,7 @@
 {"name":"assets/minecraft/textures/block/peony_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/peony_top.png","value":true}
 {"name":"assets/minecraft/textures/block/purple_glazed_terracotta.png","value":true}
+{"name":"assets/minecraft/textures/block/small_amethyst_bud.png","value":true}
 {"name":"assets/minecraft/textures/block/smithing_table_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/smithing_table_top.png","value":true}
 {"name":"assets/minecraft/textures/block/spawner.png","value":true}
@@ -51,9 +56,9 @@
 {"name":"assets/minecraft/textures/block/white_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/yellow_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/item/acacia_boat.png","value":true}
+{"name":"assets/minecraft/textures/item/amethyst_shard.png","value":true}
 {"name":"assets/minecraft/textures/item/axolotl_bucket.png","value":true}
 {"name":"assets/minecraft/textures/item/barrier.png","value":true}
-{"name":"assets/minecraft/textures/item/bell.png","value":true}
 {"name":"assets/minecraft/textures/item/birch_boat.png","value":true}
 {"name":"assets/minecraft/textures/item/cake.png","value":true}
 {"name":"assets/minecraft/textures/item/dark_oak_boat.png","value":true}
@@ -61,6 +66,7 @@
 {"name":"assets/minecraft/textures/item/filled_map_markings.png","value":true}
 {"name":"assets/minecraft/textures/item/glistering_melon_slice.png","value":true}
 {"name":"assets/minecraft/textures/item/green_dye.png","value":true}
+{"name":"assets/minecraft/textures/item/honeycomb.png","value":true}
 {"name":"assets/minecraft/textures/item/hopper.png","value":true}
 {"name":"assets/minecraft/textures/item/jungle_boat.png","value":true}
 {"name":"assets/minecraft/textures/item/mushroom_stew.png","value":true}
@@ -77,4 +83,3 @@
 {"name":"assets/minecraft/textures/item/spruce_boat.png","value":true}
 {"name":"assets/minecraft/textures/item/suspicious_stew.png","value":true}
 {"name":"assets/minecraft/textures/item/totem_of_undying.png","value":true}
-{"name":"assets/minecraft/textures/item/turtle_helmet.png","value":true}

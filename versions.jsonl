@@ -132,7 +132,8 @@
 {"name":"assets/minecraft/textures/block/activator_rail.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/activator_rail_on.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/allium.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/amethyst_block.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/amethyst_block.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/amethyst_cluster.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/ancient_debris_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/ancient_debris_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/andesite.png","value":"1.17"}
@@ -200,7 +201,7 @@
 {"name":"assets/minecraft/textures/block/blue_wool.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/bone_block_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/bone_block_top.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/bookshelf.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/bookshelf.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/brain_coral.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/brain_coral_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/brain_coral_fan.png","value":"1.17"}
@@ -220,6 +221,7 @@
 {"name":"assets/minecraft/textures/block/bubble_coral.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/bubble_coral_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/bubble_coral_fan.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/budding_amethyst.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/cactus_bottom.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/cactus_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/cactus_top.png","value":"1.17"}
@@ -242,7 +244,8 @@
 {"name":"assets/minecraft/textures/block/chain_command_block_front.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chain_command_block_side.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chipped_anvil_top.png","value":"1.17"}
-{"name":"assets/minecraft/textures/block/chiseled_polished_blackstone.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/chiseled_polished_blackstone.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/chiseled_quartz_block_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/chiseled_red_sandstone.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chiseled_sandstone.png","value":"1.14.4"}
 {"name":"assets/minecraft/textures/block/chiseled_stone_bricks.png","value":"1.17"}
@@ -406,6 +409,9 @@
 {"name":"assets/minecraft/textures/block/green_wool.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/hay_block_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/hay_block_top.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/honey_block_bottom.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/honey_block_side.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/honey_block_top.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/honeycomb_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/hopper_inside.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/hopper_outside.png","value":"1.17"}
@@ -435,6 +441,7 @@
 {"name":"assets/minecraft/textures/block/ladder.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/lapis_block.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/lapis_ore.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/large_amethyst_bud.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/lever.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/light_blue_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/light_blue_concrete_powder.png","value":"1.14.2"}
@@ -477,6 +484,7 @@
 {"name":"assets/minecraft/textures/block/magenta_terracotta.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/magenta_wool.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/magma.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/medium_amethyst_bud.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/melon_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/melon_stem.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/melon_top.png","value":"1.17"}
@@ -608,6 +616,7 @@
 {"name":"assets/minecraft/textures/block/shroomlight.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/shulker_box.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/slime_block.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/small_amethyst_bud.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/smithing_table_bottom.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/smithing_table_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/snow.png","value":"1.14.4"}
@@ -692,6 +701,7 @@
 {"name":"assets/minecraft/textures/item/acacia_boat.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/acacia_door.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/acacia_sign.png","value":"1.17"}
+{"name":"assets/minecraft/textures/item/amethyst_shard.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/item/apple.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/armor_stand.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/arrow.png","value":"1.17"}
@@ -702,7 +712,7 @@
 {"name":"assets/minecraft/textures/item/beef.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/beetroot.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/beetroot_seeds.png","value":"1.16.5"}
-{"name":"assets/minecraft/textures/item/bell.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/item/bell.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/birch_boat.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/birch_door.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/birch_sign.png","value":"1.17"}
@@ -829,6 +839,7 @@
 {"name":"assets/minecraft/textures/item/gunpowder.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/heart_of_the_sea.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/honey_bottle.png","value":"1.17"}
+{"name":"assets/minecraft/textures/item/honeycomb.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/item/hopper.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/hopper_minecart.png","value":"1.17"}
 {"name":"assets/minecraft/textures/item/ink_sac.png","value":"1.17"}
