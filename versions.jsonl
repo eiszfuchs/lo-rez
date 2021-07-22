@@ -179,6 +179,8 @@
 {"name":"assets/minecraft/textures/block/birch_planks.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/birch_sapling.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/birch_trapdoor.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/black_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/black_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/black_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/black_concrete_powder.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/black_glazed_terracotta.png","value":"1.17"}
@@ -193,6 +195,8 @@
 {"name":"assets/minecraft/textures/block/blast_furnace_front_on.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/blast_furnace_side.png","value":"1.15.2"}
 {"name":"assets/minecraft/textures/block/blast_furnace_top.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/blue_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/blue_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/blue_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/blue_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/blue_glazed_terracotta.png","value":"1.17"}
@@ -212,6 +216,8 @@
 {"name":"assets/minecraft/textures/block/brewing_stand.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/brewing_stand_base.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/bricks.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/brown_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/brown_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/brown_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/brown_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/brown_glazed_terracotta.png","value":"1.17"}
@@ -233,6 +239,8 @@
 {"name":"assets/minecraft/textures/block/cake_inner.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/cake_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/cake_top.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/carrots_stage0.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/carrots_stage1.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/carrots_stage2.png","value":"1.17"}
@@ -299,6 +307,8 @@
 {"name":"assets/minecraft/textures/block/cut_copper.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/cut_red_sandstone.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/cut_sandstone.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/cyan_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/cyan_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/cyan_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/cyan_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/cyan_glazed_terracotta.png","value":"1.17"}
@@ -419,6 +429,8 @@
 {"name":"assets/minecraft/textures/block/grass_path_side.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/grass_path_top.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/gravel.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/gray_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/gray_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/gray_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/gray_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/gray_glazed_terracotta.png","value":"1.17"}
@@ -427,6 +439,8 @@
 {"name":"assets/minecraft/textures/block/gray_stained_glass_pane_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/gray_terracotta.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/gray_wool.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/green_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/green_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/green_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/green_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/green_glazed_terracotta.png","value":"1.17"}
@@ -471,6 +485,8 @@
 {"name":"assets/minecraft/textures/block/lapis_ore.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/large_amethyst_bud.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/lever.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/light_blue_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/light_blue_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/light_blue_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/light_blue_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/light_blue_glazed_terracotta.png","value":"1.17"}
@@ -479,6 +495,8 @@
 {"name":"assets/minecraft/textures/block/light_blue_stained_glass_pane_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/light_blue_terracotta.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/light_blue_wool.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/light_gray_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/light_gray_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/light_gray_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/light_gray_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/light_gray_glazed_terracotta.png","value":"1.17"}
@@ -489,6 +507,8 @@
 {"name":"assets/minecraft/textures/block/light_gray_wool.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/lily_of_the_valley.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/lily_pad.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/lime_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/lime_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/lime_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/lime_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/lime_glazed_terracotta.png","value":"1.17"}
@@ -503,6 +523,8 @@
 {"name":"assets/minecraft/textures/block/loom_front.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/loom_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/loom_top.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/magenta_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/magenta_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/magenta_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/magenta_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/magenta_glazed_terracotta.png","value":"1.17"}
@@ -543,6 +565,8 @@
 {"name":"assets/minecraft/textures/block/oak_trapdoor.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/observer_top.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/obsidian.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/orange_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/orange_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/orange_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/orange_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/orange_glazed_terracotta.png","value":"1.17"}
@@ -558,6 +582,8 @@
 {"name":"assets/minecraft/textures/block/packed_ice.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/peony_bottom.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/peony_top.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/pink_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/pink_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/pink_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/pink_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/pink_glazed_terracotta.png","value":"1.17"}
@@ -587,6 +613,8 @@
 {"name":"assets/minecraft/textures/block/pumpkin_side.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/pumpkin_stem.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/pumpkin_top.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/purple_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/purple_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/purple_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/purple_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/purple_glazed_terracotta.png","value":"1.17"}
@@ -603,6 +631,8 @@
 {"name":"assets/minecraft/textures/block/quartz_pillar_top.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/rail.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/rail_corner.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/red_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/red_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/red_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/red_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/red_glazed_terracotta.png","value":"1.17"}
@@ -718,6 +748,8 @@
 {"name":"assets/minecraft/textures/block/weathered_copper.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/weathered_cut_copper.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/wet_sponge.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/white_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/white_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/white_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/white_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/white_glazed_terracotta.png","value":"1.17"}
@@ -728,6 +760,8 @@
 {"name":"assets/minecraft/textures/block/white_tulip.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/white_wool.png","value":"1.17"}
 {"name":"assets/minecraft/textures/block/wither_rose.png","value":"1.17"}
+{"name":"assets/minecraft/textures/block/yellow_candle.png","value":"1.17.1"}
+{"name":"assets/minecraft/textures/block/yellow_candle_lit.png","value":"1.17.1"}
 {"name":"assets/minecraft/textures/block/yellow_concrete.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/yellow_concrete_powder.png","value":"1.14.2"}
 {"name":"assets/minecraft/textures/block/yellow_glazed_terracotta.png","value":"1.17"}
