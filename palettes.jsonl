@@ -370,7 +370,7 @@
 {"name":"assets/minecraft/textures/block/loom_top.png","value":["#caa671ff","#806337ff","#b5a49dff","#a8958cff","#b38c51ff","#322718ff","#524127ff","#d3c0b4ff","#695433ff","#a48048ff","#846f64ff","#bc935aff","#947c72ff"]}
 {"name":"assets/minecraft/textures/block/magenta_candle.png","value":["#00000000","#212034ff","#a42c9cff","#9c2894ff","#bd3cb4ff","#c544b4ff"]}
 {"name":"assets/minecraft/textures/block/magenta_candle_lit.png","value":["#00000000","#212034ff","#ffa8c8ff","#ff90bdff","#d448b0ff","#da5ab6ff","#ba2fa6ff","#c945b4ff","#a42c9cff","#bd3cb4ff","#9c2894ff"]}
-{"name":"assets/minecraft/textures/block/magenta_concrete.png","value":["#a9309fff","#aa31a0ff","#aa32a0ff","#a82f9eff","#a72f9dff"]}
+{"name":"assets/minecraft/textures/block/magenta_concrete.png","value":["#a9309fff","#aa31a0ff","#aa32a0ff","#a82f9eff","#a72f9dff","#a72f9eff"]}
 {"name":"assets/minecraft/textures/block/magenta_glazed_terracotta.png","value":["#c74ebdff","#dd68daff","#cb58c2ff","#c952c0ff","#f4b5cbff","#f1a5bfff","#b333a9ff","#a9309fff","#9d2d95ff","#d460cfff"]}
 {"name":"assets/minecraft/textures/block/magenta_shulker_box.png","value":["#a12c97ff","#b338a9ff","#982a8fff","#ab31a1ff","#992a90ff","#b93eaeff","#ba3fafff","#b73cadff","#94298bff"]}
 {"name":"assets/minecraft/textures/block/magenta_stained_glass.png","value":["#b24dd8a3","#b24bd766","#b24cd89b"]}
@@ -469,7 +469,7 @@
 {"name":"assets/minecraft/textures/block/rail_corner.png","value":["#00000000","#7e6237ff","#967441ff","#513d24ff","#abacabff","#a4a4a4ff","#72796eff","#686868ff","#67502cff","#a6824dff","#9c9c9cff"]}
 {"name":"assets/minecraft/textures/block/red_candle.png","value":["#00000000","#212034ff","#a22722ff","#902120ff","#b53129ff","#bf3b33ff"]}
 {"name":"assets/minecraft/textures/block/red_candle_lit.png","value":["#00000000","#212034ff","#ffa160ff","#ff874dff","#e8502cff","#e86740ff","#cb3420ff","#d94229ff","#a22722ff","#b53129ff","#902120ff"]}
-{"name":"assets/minecraft/textures/block/red_concrete.png","value":["#8f2121ff","#8e2020ff","#8d2020ff","#8f2222ff","#8f2323ff"]}
+{"name":"assets/minecraft/textures/block/red_concrete.png","value":["#8f2121ff","#8e2020ff","#8d2020ff","#8f2222ff","#8c2020ff","#8f2323ff"]}
 {"name":"assets/minecraft/textures/block/red_glazed_terracotta.png","value":["#8e2020ff","#8b1f1fff","#992222ff","#b02e26ff","#ce4b44ff","#a82b24ff","#d15650ff","#b82f27ff","#cb423aff","#cd917cff"]}
 {"name":"assets/minecraft/textures/block/red_mushroom.png","value":["#00000000","#9accd0ff","#fe2a2aff","#e21212ff","#96adafff","#c41d26ff","#a9121aff","#cfc47fff","#a9a065ff","#ede8caff","#d6d0acff"]}
 {"name":"assets/minecraft/textures/block/red_mushroom_block.png","value":["#c32826ff","#be2321ff","#c92b29ff","#ce2d2bff","#ffbfbfff","#ff9898ff"]}
@@ -565,7 +565,7 @@
 {"name":"assets/minecraft/textures/block/wet_sponge.png","value":["#cdce4aff","#b0bf4cff","#8e8d34ff","#96a846ff"]}
 {"name":"assets/minecraft/textures/block/white_candle.png","value":["#00000000","#212034ff","#e0e5e5ff","#c7d3d3ff","#f8f8f8ff","#ffffffff"]}
 {"name":"assets/minecraft/textures/block/white_candle_lit.png","value":["#00000000","#212034ff","#fbf2c2ff","#f8daabff","#f9e9d1ff","#fbf1d7ff","#e8e6dfff","#f8f6eeff","#e0e5e5ff","#f8f8f8ff","#c7d3d3ff"]}
-{"name":"assets/minecraft/textures/block/white_concrete.png","value":["#cfd5d6ff","#ced4d5ff","#d0d6d7ff"]}
+{"name":"assets/minecraft/textures/block/white_concrete.png","value":["#cfd5d6ff","#ced4d5ff","#d0d6d7ff","#d1d6d7ff","#ced3d4ff","#ced4d4ff"]}
 {"name":"assets/minecraft/textures/block/white_glazed_terracotta.png","value":["#fed83dff","#f9fffeff","#2389c7ff","#3ab3daff","#f4f4f2ff","#fede5fff","#4577d3ff","#d0d6d7ff","#4ab9ddff","#50bbdeff","#f8f3e5ff","#f2f0e4ff"]}
 {"name":"assets/minecraft/textures/block/white_shulker_box.png","value":["#cad0d1ff","#dee3e3ff","#cfd5d6ff","#c5cccdff","#bec4c5ff","#d5dadbff","#e4e9e9ff","#e6eaeaff","#e2e7e7ff","#b6bcbdff"]}
 {"name":"assets/minecraft/textures/block/white_stained_glass.png","value":["#ffffffa3","#ffffff66","#ffffff9b"]}
