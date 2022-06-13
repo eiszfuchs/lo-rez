@@ -11,6 +11,7 @@
 {"name":"assets/minecraft/textures/block/orange_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/peony_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/peony_top.png","value":true}
+{"name":"assets/minecraft/textures/block/piston_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/purple_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/warped_door_top.png","value":true}
 {"name":"assets/minecraft/textures/block/water_still.png","value":true}
@@ -19,4 +20,5 @@
 {"name":"assets/minecraft/textures/item/axolotl_bucket.png","value":true}
 {"name":"assets/minecraft/textures/item/feather.png","value":true}
 {"name":"assets/minecraft/textures/item/pointed_dripstone.png","value":true}
+{"name":"assets/minecraft/textures/item/rabbit_foot.png","value":true}
 {"name":"assets/minecraft/textures/item/totem_of_undying.png","value":true}
