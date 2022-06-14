@@ -5,7 +5,6 @@
 {"name":"assets/minecraft/textures/block/frosted_ice_1.png","value":true}
 {"name":"assets/minecraft/textures/block/frosted_ice_2.png","value":true}
 {"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":true}
-{"name":"assets/minecraft/textures/block/ice.png","value":true}
 {"name":"assets/minecraft/textures/block/light_gray_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/magma.png","value":true}
 {"name":"assets/minecraft/textures/block/orange_glazed_terracotta.png","value":true}
@@ -17,8 +16,5 @@
 {"name":"assets/minecraft/textures/block/water_still.png","value":true}
 {"name":"assets/minecraft/textures/block/white_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/yellow_glazed_terracotta.png","value":true}
-{"name":"assets/minecraft/textures/item/axolotl_bucket.png","value":true}
 {"name":"assets/minecraft/textures/item/feather.png","value":true}
 {"name":"assets/minecraft/textures/item/pointed_dripstone.png","value":true}
-{"name":"assets/minecraft/textures/item/rabbit_foot.png","value":true}
-{"name":"assets/minecraft/textures/item/totem_of_undying.png","value":true}
