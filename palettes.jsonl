@@ -778,6 +778,7 @@
 {"name":"assets/minecraft/textures/item/mushroom_stew.png","value":["#00000000","#3f2b0bff","#be785eff","#cd8c6fff","#cc9978ff","#1f1502ff","#45320dff","#714f0fff","#533909ff","#3a2706ff","#302109ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_11.png","value":["#00000000","#262626ff","#404040ff","#515151ff","#888888ff","#343434ff","#141414ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_13.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#ffd800ff","#262626ff","#ffffffff","#111111ff"]}
+{"name":"assets/minecraft/textures/item/music_disc_5.png","value":["#00000000","#2f2f37ff","#515151ff","#646464ff","#0d1217ff","#05625dff","#3d3d43ff","#111b21ff","#29dfebff","#034150ff","#052a32ff","#009295ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_blocks.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#e2543bff","#262626ff","#111111ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_cat.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#4cff00ff","#1f6800ff","#262626ff","#111111ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_chirp.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#ff0004ff","#7f0002ff","#262626ff","#111111ff"]}
