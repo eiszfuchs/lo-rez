@@ -484,6 +484,8 @@
 {"name":"assets/minecraft/textures/block/lapis_block.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/lapis_ore.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/large_amethyst_bud.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/lava_flow.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/lava_still.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/lever.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/light_blue_candle.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/light_blue_candle_lit.png","value":"1.19"}
@@ -546,6 +548,7 @@
 {"name":"assets/minecraft/textures/block/mycelium_top.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/nether_bricks.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/nether_gold_ore.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/nether_portal.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/nether_quartz_ore.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/nether_sprouts.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/nether_wart_block.png","value":"1.19"}
@@ -745,7 +748,9 @@
 {"name":"assets/minecraft/textures/block/warped_nylium_side.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/warped_planks.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/warped_trapdoor.png","value":"1.19"}
-{"name":"assets/minecraft/textures/block/water_still.png","value":"1.16.5"}
+{"name":"assets/minecraft/textures/block/water_flow.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/water_overlay.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/water_still.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/weathered_copper.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/weathered_cut_copper.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/wet_sponge.png","value":"1.19"}

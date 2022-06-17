@@ -560,6 +560,7 @@
 {"name":"assets/minecraft/textures/block/warped_nylium_side.png","value":["#167e86ff","#119b85ff","#3e4f58ff","#14b485ff","#16615bff","#303c35ff","#511515ff","#572121ff","#652828ff","#411616ff","#723232ff","#501b1bff","#854242ff"]}
 {"name":"assets/minecraft/textures/block/warped_planks.png","value":["#398382ff","#287067ff","#3a8e8cff","#1f5752ff","#2e5f51ff","#1e4340ff","#113835ff"]}
 {"name":"assets/minecraft/textures/block/warped_trapdoor.png","value":["#2e5f51ff","#1f5752ff","#3a8e8cff","#398382ff","#369d91ff","#287067ff","#00000000"]}
+{"name":"assets/minecraft/textures/block/water_overlay.png","value":["#a4a4a4b4"]}
 {"name":"assets/minecraft/textures/block/weathered_copper.png","value":["#7ab799ff","#66a977ff","#64a077ff","#6c975cff","#8d8770ff","#748d57ff","#6a7147ff","#497164ff"]}
 {"name":"assets/minecraft/textures/block/weathered_cut_copper.png","value":["#7ab799ff","#66a977ff","#6a7147ff","#748d57ff","#8d8770ff","#6c975cff","#64a077ff","#497164ff"]}
 {"name":"assets/minecraft/textures/block/wet_sponge.png","value":["#cdce4aff","#b0bf4cff","#8e8d34ff","#96a846ff"]}
