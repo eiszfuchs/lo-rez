@@ -14,11 +14,16 @@
 {"name":"assets/minecraft/textures/block/peony_top.png","value":true}
 {"name":"assets/minecraft/textures/block/piston_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/purple_glazed_terracotta.png","value":true}
+{"name":"assets/minecraft/textures/block/stonecutter_bottom.png","value":true}
+{"name":"assets/minecraft/textures/block/stonecutter_saw.png","value":true}
+{"name":"assets/minecraft/textures/block/stonecutter_side.png","value":true}
+{"name":"assets/minecraft/textures/block/stonecutter_top.png","value":true}
 {"name":"assets/minecraft/textures/block/warped_door_top.png","value":true}
 {"name":"assets/minecraft/textures/block/water_flow.png","value":true}
 {"name":"assets/minecraft/textures/block/water_still.png","value":true}
 {"name":"assets/minecraft/textures/block/white_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/block/yellow_glazed_terracotta.png","value":true}
+{"name":"assets/minecraft/textures/item/acacia_boat.png","value":true}
 {"name":"assets/minecraft/textures/item/axolotl_bucket.png","value":true}
 {"name":"assets/minecraft/textures/item/feather.png","value":true}
 {"name":"assets/minecraft/textures/item/pointed_dripstone.png","value":true}

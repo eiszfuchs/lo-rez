@@ -585,6 +585,10 @@
 {"name":"assets/minecraft/textures/block/spruce_trapdoor.png","value":["#664d28ff","#805e36ff","#785836ff","#5a4424ff","#553a1fff","#6b5332ff","#353535ff","#3f3f3fff","#686868ff"]}
 {"name":"assets/minecraft/textures/block/stone.png","value":["#8f8f8fff","#7f7f7fff","#747474ff","#686868ff"]}
 {"name":"assets/minecraft/textures/block/stone_bricks.png","value":["#8b898bff","#9c999cff","#5a595aff","#7f7f7fff","#787678ff","#6a6d6aff","#636363ff"]}
+{"name":"assets/minecraft/textures/block/stonecutter_bottom.png","value":["#525252ff","#767676ff","#808080ff","#888788ff","#6e6d6dff"]}
+{"name":"assets/minecraft/textures/block/stonecutter_saw.png","value":["#00000000","#d8d8d8ff","#ffffffff","#a8a8a8ff","#eaeaeaff","#828282ff","#727272ff"]}
+{"name":"assets/minecraft/textures/block/stonecutter_side.png","value":["#00000000","#664227ff","#593b24ff","#4d311cff","#686868ff","#747474ff","#7f7f7fff","#8f8f8fff"]}
+{"name":"assets/minecraft/textures/block/stonecutter_top.png","value":["#967134ff","#785a2aff","#747474ff","#8f8f8fff","#826639ff","#684814ff","#686868ff","#7f7f7fff","#5f5f5fff","#535353ff"]}
 {"name":"assets/minecraft/textures/block/stripped_acacia_log.png","value":["#965837ff","#b05b3bff","#b25b3bff","#a9583aff","#b5603eff","#bb5f3eff","#b5613eff","#b8603eff","#a95a3aff","#9d5837ff","#ac603fff","#b4613fff","#b25d3cff","#9f5837ff","#a65b3aff","#c46340ff","#a25c3aff","#bd603eff","#9f5938ff","#a65e3dff","#bd623fff","#b35f3dff","#aa5c3bff","#b85f3eff","#b15d3cff"]}
 {"name":"assets/minecraft/textures/block/stripped_acacia_log_top.png","value":["#995c3bff","#935736ff","#ba6337ff","#ad5d32ff","#c26d3fff","#8f4c2aff","#99502bff","#a05630ff"]}
 {"name":"assets/minecraft/textures/block/stripped_birch_log.png","value":["#b19860ff","#c4ac72ff","#cbb57aff","#cebc80ff","#cfbd81ff","#baa269ff","#baa874ff","#b5a06aff","#c8b076ff","#d1c084ff","#cdb87dff","#d3c487ff","#c3ac72ff","#b69d65ff","#d0be82ff","#cab47aff","#c6ae74ff","#cebb7fff"]}

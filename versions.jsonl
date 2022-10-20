@@ -729,6 +729,10 @@
 {"name":"assets/minecraft/textures/block/spruce_trapdoor.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/stone.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/stone_bricks.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/stonecutter_bottom.png","value":"1.19.2"}
+{"name":"assets/minecraft/textures/block/stonecutter_saw.png","value":"1.19.2"}
+{"name":"assets/minecraft/textures/block/stonecutter_side.png","value":"1.19.2"}
+{"name":"assets/minecraft/textures/block/stonecutter_top.png","value":"1.19.2"}
 {"name":"assets/minecraft/textures/block/stripped_acacia_log.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/stripped_acacia_log_top.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/stripped_birch_log.png","value":"1.19"}
@@ -778,6 +782,7 @@
 {"name":"assets/minecraft/textures/block/warped_nylium_side.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/warped_planks.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/warped_trapdoor.png","value":"1.19"}
+{"name":"assets/minecraft/textures/block/water_overlay.png","value":"1.19.2"}
 {"name":"assets/minecraft/textures/block/water_still.png","value":"1.16.5"}
 {"name":"assets/minecraft/textures/block/weathered_copper.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/weathered_cut_copper.png","value":"1.19"}
@@ -806,7 +811,7 @@
 {"name":"assets/minecraft/textures/block/yellow_stained_glass_pane_top.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/yellow_terracotta.png","value":"1.19"}
 {"name":"assets/minecraft/textures/block/yellow_wool.png","value":"1.19"}
-{"name":"assets/minecraft/textures/item/acacia_boat.png","value":"1.19"}
+{"name":"assets/minecraft/textures/item/acacia_boat.png","value":"1.19.2"}
 {"name":"assets/minecraft/textures/item/acacia_door.png","value":"1.19"}
 {"name":"assets/minecraft/textures/item/acacia_sign.png","value":"1.19"}
 {"name":"assets/minecraft/textures/item/amethyst_shard.png","value":"1.19"}
@@ -1009,6 +1014,7 @@
 {"name":"assets/minecraft/textures/item/mushroom_stew.png","value":"1.19"}
 {"name":"assets/minecraft/textures/item/music_disc_11.png","value":"1.19"}
 {"name":"assets/minecraft/textures/item/music_disc_13.png","value":"1.19"}
+{"name":"assets/minecraft/textures/item/music_disc_5.png","value":"1.19.2"}
 {"name":"assets/minecraft/textures/item/music_disc_blocks.png","value":"1.19"}
 {"name":"assets/minecraft/textures/item/music_disc_cat.png","value":"1.19"}
 {"name":"assets/minecraft/textures/item/music_disc_chirp.png","value":"1.19"}
