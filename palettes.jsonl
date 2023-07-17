@@ -672,6 +672,7 @@
 {"name":"assets/minecraft/textures/item/axolotl_bucket.png","value":["#00000000","#e06094ff","#f27093ff","#d64e89ff","#fcc8e7ff","#ffe2f3ff","#3a006cff","#353535ff","#234fccff","#e98ed5ff","#345fdaff","#b1579eff","#d8d8d8ff","#a8a8a8ff","#446fe9ff","#727272ff","#969696ff","#d13674ff","#ffffffff"]}
 {"name":"assets/minecraft/textures/item/baked_potato.png","value":["#00000000","#9a5500ff","#af8444ff","#d9aa51ff","#c8973aff","#9d772eff","#d5ac37ff","#f0cd5aff","#b59840ff","#6d3701ff","#86693eff"]}
 {"name":"assets/minecraft/textures/item/bamboo.png","value":["#00000000","#568112ff","#507516ff","#5e8a24ff","#456317ff","#8aae60ff","#97c463ff","#3d5a1fff","#78a030ff","#699022ff","#94bb4fff"]}
+{"name":"assets/minecraft/textures/item/bamboo_sign.png","value":["#00000000","#d9c25eff","#e3cc6aff","#403714ff","#c8b14dff","#d3bb50ff","#211d0bff","#efd97eff","#bba84cff","#998741ff"]}
 {"name":"assets/minecraft/textures/item/barrier.png","value":["#00000000","#be0101ff","#e30000ff","#b10000ff"]}
 {"name":"assets/minecraft/textures/item/beef.png","value":["#00000000","#ad1d17ff","#ea8873ff","#e2625aff","#e03e35ff","#e27269ff","#e2534aff","#7b1713ff","#470a06ff"]}
 {"name":"assets/minecraft/textures/item/beetroot.png","value":["#00000000","#8f2d2fff","#71160dff","#5b1d17ff","#b6484cff","#c07279ff","#a4272cff","#ddb5b7ff"]}
@@ -713,6 +714,7 @@
 {"name":"assets/minecraft/textures/item/chainmail_helmet.png","value":["#00000000","#2d2d2dff","#969696ff","#d8d8d8ff","#6b6b6bff","#191919ff","#ffffffff"]}
 {"name":"assets/minecraft/textures/item/chainmail_leggings.png","value":["#00000000","#2d2d2dff","#191919ff","#d8d8d8ff","#ffffffff","#c6c6c6ff","#969696ff","#6b6b6bff"]}
 {"name":"assets/minecraft/textures/item/charcoal.png","value":["#00000000","#1d1a14ff","#2b261dff","#423b2fff","#312b22ff","#13110dff","#7d6f58ff","#4e4536ff","#605543ff","#231f18ff"]}
+{"name":"assets/minecraft/textures/item/cherry_sign.png","value":["#00000000","#e7cac5ff","#e7c2bbff","#e7bab4ff","#e1a8a1ff","#bf6c6fff","#843539ff","#dd9d97ff","#e6b3adff","#cd8580ff","#301d29ff","#3b232dff","#271620ff","#462c39ff","#543543ff"]}
 {"name":"assets/minecraft/textures/item/chest_minecart.png","value":["#00000000","#373127ff","#7f5f22ff","#a76e1fff","#8f691dff","#ab792dff","#281e0bff","#3f4243ff","#684e1eff","#767676ff","#232c2fff","#cdcdcdff","#a5a5a5ff","#949798ff","#808389ff","#676f73ff","#a9aeafff","#9ea4a6ff","#09090aff"]}
 {"name":"assets/minecraft/textures/item/chicken.png","value":["#00000000","#b47b65ff","#dfa996ff","#efbcacff","#c19280ff","#ffe7dcff","#865245ff","#f2c9bdff","#deaa83ff","#eecaacff"]}
 {"name":"assets/minecraft/textures/item/chorus_fruit.png","value":["#00000000","#ba9bbaff","#e1d7e1ff","#f7f4f7ff","#654864ff","#8e678dff","#785978ff","#5e2e5cff","#a381a2ff","#3a143aff"]}
@@ -756,11 +758,11 @@
 {"name":"assets/minecraft/textures/item/egg.png","value":["#00000000","#746b51ff","#b3a57dff","#dfce9bff","#f0e6c6ff","#8e825bff","#554e3bff"]}
 {"name":"assets/minecraft/textures/item/elytra.png","value":["#00000000","#4b4b4bff","#353535ff","#737373ff","#7f7f98ff","#8f8fb3ff","#8c8c8cff","#706e8dff","#696969ff"]}
 {"name":"assets/minecraft/textures/item/emerald.png","value":["#00000000","#005300ff","#dbffebff","#41f384ff","#17dd62ff","#affdcdff","#00aa2cff","#002d00ff","#009529ff","#82f6adff","#007b18ff"]}
-{"name":"assets/minecraft/textures/item/empty_armor_slot_boots.png","value":["#00000000","#192022ff"]}
-{"name":"assets/minecraft/textures/item/empty_armor_slot_chestplate.png","value":["#00000000","#192022ff"]}
-{"name":"assets/minecraft/textures/item/empty_armor_slot_helmet.png","value":["#00000000","#192022ff"]}
-{"name":"assets/minecraft/textures/item/empty_armor_slot_leggings.png","value":["#00000000","#192022ff"]}
-{"name":"assets/minecraft/textures/item/empty_armor_slot_shield.png","value":["#00000000","#192022ff"]}
+{"name":"assets/minecraft/textures/item/empty_armor_slot_boots.png","value":["#00000000","#555555ff"]}
+{"name":"assets/minecraft/textures/item/empty_armor_slot_chestplate.png","value":["#00000000","#555555ff"]}
+{"name":"assets/minecraft/textures/item/empty_armor_slot_helmet.png","value":["#00000000","#555555ff"]}
+{"name":"assets/minecraft/textures/item/empty_armor_slot_leggings.png","value":["#00000000","#555555ff"]}
+{"name":"assets/minecraft/textures/item/empty_armor_slot_shield.png","value":["#00000000","#555555ff"]}
 {"name":"assets/minecraft/textures/item/enchanted_book.png","value":["#00000000","#312104ff","#522e10ff","#654b17ff","#6c1717ff","#a42c2bff","#c51339ff","#443310ff","#543e13ff","#9d1b37ff","#44250aff","#5b5b5bff","#b7b7b7ff","#d3a216ff","#999999ff","#161005ff","#d6d6d6ff","#d4961aff","#892120ff","#611414ff"]}
 {"name":"assets/minecraft/textures/item/ender_eye.png","value":["#00000000","#316364ff","#1e4835ff","#4e8386ff","#659b7dff","#cbfcddff","#b5e45aff","#88c35aff","#71ac49ff","#97d16bff","#579143ff","#102c31ff","#1b2b10ff"]}
 {"name":"assets/minecraft/textures/item/ender_pearl.png","value":["#00000000","#0c3730ff","#349988ff","#258474ff","#105e51ff","#032620ff","#8cf4e2ff","#2ccdb1ff","#0b4d42ff","#063931ff","#1b7b6bff"]}
@@ -872,6 +874,7 @@
 {"name":"assets/minecraft/textures/item/music_disc_mellohi.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#b200ffff","#ffffffff","#262626ff","#111111ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_otherside.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#31a2f2ff","#1e8b8cff","#54c2fcff","#176e46ff","#262626ff","#78e95fff","#32a457ff","#5fc546ff","#111111ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_pigstep.png","value":["#00000000","#572121ff","#692525ff","#723232ff","#854242ff","#965d37ff","#fdf55fff","#e97d15ff","#4f1717ff","#f9b122ff","#1f0707ff"]}
+{"name":"assets/minecraft/textures/item/music_disc_relic.png","value":["#00000000","#47251dff","#754236ff","#905041ff","#767771ff","#88e6ffff","#1f7bd6ff","#5e372fff","#31aefeff","#955a44ff","#331a15ff","#9f6547ff","#ab714bff","#b98053ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_stal.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#000000ff","#262626ff","#111111ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_strad.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#ffffffff","#262626ff","#111111ff"]}
 {"name":"assets/minecraft/textures/item/music_disc_wait.png","value":["#00000000","#212121ff","#404040ff","#515151ff","#638ecbff","#81a9e2ff","#4874b3ff","#1f1f35ff","#262626ff","#111111ff"]}
